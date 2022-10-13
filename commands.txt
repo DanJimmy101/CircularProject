@@ -1,0 +1,31 @@
+# Uvicorn server start - python3 -m uvicorn app:app --reload
+# python pip3 install - sudo apt install python3-pip
+# fastapi install - pip3 install fastapi
+# uvicorn install - pip3 install uvicorn[standard]
+# Jinja2templates - pip3 install jinja2
+# tkinter install - sudo apt-get install python3-tk
+# install multi-part - pip3 install python-multipart
+# install tinyDB - pip3 install tinydb
+# pipreqs
+    # pip3 install pipreqs
+    # pipreqs .
+    # pip3 install -r requirements.txt
+
+
+# run mass upload
+    # delete already uploaded pdfs in massUpload folder
+    # copy all pdfs to massUpload folder
+    # uncomment massUpload mount in app.py
+    # remove user=Depends(manager) from endpoint
+    # run
+        # python3 -m uvicorn app:app
+        # python3 massUploader.py
+        # python3 indexer.py
+
+# normal run
+    # comment massUpload mount in app.python3
+    # add user=Depends(manager) for endpoint
+    # run
+        # python3 -m uvicorn app:app
+        # python3 indexer.py
+

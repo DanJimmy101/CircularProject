@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="description" content="" />
+	<title>Log in</title>
+
+	<style>
+		.navbar {
+			margin-bottom: 20px;
+		}
+	</style>
+
+	<!-- Bootstrap core CSS -->
+	<link href="{{ url_for('static', path='/assets/dist/css/bootstrap.min.css') }}" rel="stylesheet" />
+</head>
+
+<body>
+	<main>
+		<div class="container">
+			<nav class="navbar navbar-expand-lg navbar-light bg-light rounded" aria-label="Eleventh navbar example">
+				<div class="container-fluid">
+					<a class="navbar-brand" href="/">Home</a>
+					<button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+						data-bs-target="#navbarsExample09" aria-controls="navbarsExample09" aria-expanded="false"
+						aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+
+					<div class="collapse navbar-collapse" id="navbarsExample09">
+						<ul class="navbar-nav me-auto mb-2 mb-lg-0"></ul>
+					</div>
+				</div>
+			</nav>
+
+			<div class="container my-5">
+				<div class="row p-1 pb-0 pe-lg-0 pt-lg-1 align-items-center rounded-3 border shadow-lg">
+					<div class="px-4 pt-0 my-5 text-center border-bottom">
+						<div class="container col-xl-10 col-xxl-8 px-4 py-1">
+							<div class="row align-items-center g-lg-5 py-5">
+								<div class="col-lg-7 text-center text-lg-start">
+									<p class="fs-4 text-center">
+										Please sign in to upload files
+									</p>
+									<img src="{{ url_for('static', path='/assets/images/upload-g355e68e76_1280.png') }}"
+										alt="" width="50%" height="50%" class="mx-auto d-block" />
+								</div>
+								<div class="col-md-10 mx-auto col-lg-5">
+									<form class="p-1 p-md-5 border rounded-1 bg-light" action="/auth/token"
+										method="post">
+										<div class="form-floating mb-3">
+											<input type="email" class="form-control" id="floatingInput"
+												placeholder="name@example.com" name="username" />
+											<label for="floatingInput">Username</label>
+										</div>
+										<div class="form-floating mb-3">
+											<input type="password" class="form-control" id="floatingPassword"
+												placeholder="Password" name="password" />
+											<label for="floatingPassword">Password</label>
+										</div>
+										<button class="w-100 btn btn-lg btn-primary" type="submit">
+											Sign in
+										</button>
+									</form>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</main>
+
+	<script src="{{ url_for('static', path='/assets/dist/js/bootstrap.bundle.min.js') }}"></script>
+</body>
+
+</html>
