@@ -19,6 +19,7 @@ from utility import docfile, wordfile, wordlocfile
 from runner import Search
 from tfidfRecommender import getRecommendations
 from tinyDB import tiny_db_search_data
+from doclistRead import doclistData
 
 class NotAuthenticatedException(Exception):
     pass
@@ -34,6 +35,9 @@ class user_history(BaseModel):
     user_click_history: str
     user_min_value: float
     user_max_value: float
+
+class delete_user_history(BaseModel):
+    user_click_history: str
 
 DEFAULT_SETTINGS = Settings(_env_file=".env")
 
@@ -312,8 +316,8 @@ def recomended_things(request: Response, user_data: user_history):
     # click_data = json.loads(user_data.user_click_history)
     # # print("------------------------------------------------------")
     if(len(user_data.user_click_history) > 0):
-        clcikedDocuments = user_data.user_click_history.split(',')
-        clcikedDocuments = [document + '.txt'  for document in clcikedDocuments]
+        clickedDocuments = user_data.user_click_history.split(',')
+        clickedDocuments = [document + '.txt'  for document in clickedDocuments]
 
         # print("min")
         # print(user_data.user_min_value)
@@ -322,11 +326,11 @@ def recomended_things(request: Response, user_data: user_history):
         
         # use "user_data" to get the click history and the search history of the user
         # print('^^^^^^^^^^^^^^^^^^^^^^^^^^^^^')
-        # print(clcikedDocuments)
+        # print(clickedDocuments)
         # print(user_data.user_min_value)
         # print(user_data.user_max_value)
         # print('^^^^^^^^^^^^^^^^^^^^^^^^^^^^^')
-        lstRecommendations = getRecommendations(clcikedDocuments, user_data.user_min_value, user_data.user_max_value)
+        lstRecommendations = getRecommendations(clickedDocuments, user_data.user_min_value, user_data.user_max_value)
         # print(lstRecommendations[0][:lstRecommendations[0].rindex('.')])
 
         recomendations_to_user=[]
@@ -353,3 +357,23 @@ def recomended_things(request: Response, user_data: user_history):
 def view_pdf(request: Request, fileName: str):
     print(fileName)
     return templates.TemplateResponse("./public/pdf.html", {"request": request, "pdf_file": fileName, "pdf": fileName.rsplit("-",1)[0], "doc_history_count": doc_history_count})
+
+@app.get("/viewhistory", response_class=HTMLResponse)
+def index(request: Request):
+    return templates.TemplateResponse("./public/viewHistory.html", {"request": request})
+
+@app.post("/pdfdata")
+def recomended_things(request: Response, user_data: delete_user_history):
+    print("pdfpdfpdfpdfpdfpdfpdfpdfpdfpdfpdf")
+    clickedDocs = user_data.user_click_history.split(',')
+    data_to_check_history = []
+    for doc in clickedDocs:
+        history_to_user = {}
+        docPath = str(os.path.join("ScrapedPDFs",(doc.replace(".pdf",".txt"))))
+        history_to_user["name"] = str(doc.rsplit("-",1)[0])
+        history_to_user["link"] = str("/pdf/" + doc)
+        history_to_user["year"] = doclistData[docPath]["Year"]
+        history_to_user["size"] = doclistData[docPath]["Size"]
+        data_to_check_history.append(history_to_user)
+    # close file
+    return {"history": data_to_check_history}

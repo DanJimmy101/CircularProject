@@ -140,7 +140,8 @@ def get_recommendations(documents, cosine_sim, indices, minVal, maxVal):
     lstRecommendations= []
     for x in article_indices:
       # print(indices[x])
-      docPath = 'ScrapedPDFs\\' + indices[x]
+      # docPath = 'ScrapedPDFs\\' + indices[x]
+      docPath = os.path.join("ScrapedPDFs",indices[x])
       lstRecommendations.append(searchresult(None, indices[x], None, None, doclistData[docPath]['Year'], doclistData[docPath]['Size']))
     # Return the top  most similar articls
     return lstRecommendations
