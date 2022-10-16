@@ -1,717 +1,738 @@
 {
     "dirname": "ScrapedPDFs/",
-    "ScrapedPDFs\\68th Independence Day Celebration \u2013 2016-1664962275.4794059.txt": {
-        "wordcount": 123,
-        "Category": "independence day",
-        "Year": "2016",
-        "Size": "117.5",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Agrahara Insurance Scheme for Public Officers-1664961694.3382146.txt": {
-        "wordcount": 195,
-        "Category": "agrahara insurance scheme,public officers",
-        "Year": "2003",
-        "Size": "12.7",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Amending Service Minutes Schemes of Recruitment and Promotions in Public Service-1664960873.625949.txt": {
-        "wordcount": 202,
-        "Category": "amending service minutes,schemes of recruitment,promotions in public service",
-        "Year": "2012",
-        "Size": "35.6",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Annual Transfers of Officers in Combined Services - 2022-1664961984.836818.txt": {
-        "wordcount": 119,
-        "Category": "annual transfer,officers,combined services",
-        "Year": "2021",
-        "Size": "69.6",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\ANNUAL TRANSFERS OF OFFICERS IN SUPRA CLASS OF MANAGEMENT SERVICES OFFICER - 2023-1664962079.2114897.txt": {
-        "wordcount": 4100,
-        "Category": "annual transfer,officers,supra class,management service",
-        "Year": "2022",
-        "Size": "420.0",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Attendance of the Officers in the Public Service on 20-05-2022-1664961525.173773.txt": {
-        "wordcount": 161,
-        "Category": "attendance of officers,public service",
-        "Year": "2022",
-        "Size": "80.2",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Attire of Public Officers-1664960127.373502.txt": {
-        "wordcount": 302,
-        "Category": "attire of public officers,public officers",
-        "Year": "2022",
-        "Size": "224.0",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Classification of Staff Grade Officers and Non-Staff Grade Officers-1664962824.5934997.txt": {
-        "wordcount": 270,
-        "Category": "classifications,staff grade officers,non-staff grade officers",
-        "Year": "2021",
-        "Size": "358.1",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Competitive Examination for Promotion to the Supra Grade 2021-1664960306.08854.txt": {
-        "wordcount": 169,
-        "Category": "competitie examnation,promotion,supra grade",
-        "Year": "2021",
-        "Size": "190.8",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Competitive Examination for Promotion to the Supra Grade-1664962434.9521823.txt": {
-        "wordcount": 177,
-        "Category": "competitive examination,promotion,supra grade",
-        "Year": "2021",
-        "Size": "278.5",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1664961471.484886.txt": {
-        "wordcount": 224,
-        "Category": "computer test,efficiency bar examination,officers",
-        "Year": "2017",
-        "Size": "152.4",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Computer Test Relevant to the Efficiency bar Examination for Officers-1664960333.8224313.txt": {
-        "wordcount": 178,
-        "Category": "computer test,efficiency bar examination",
-        "Year": "2017",
-        "Size": "217.5",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Conversion of Salary at Promotion-1664960721.8972507.txt": {
-        "wordcount": 342,
-        "Category": "conversion of salary,promotion",
-        "Year": "2014",
-        "Size": "36.2",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Declaration of National Drug Prevention Week-1664961890.8805494.txt": {
-        "wordcount": 539,
-        "Category": "declarations,national drug prevention week",
-        "Year": "2018",
-        "Size": "230.3",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Declaring 02 Special Holidays for Government Offices 2021-1664960077.4584062.txt": {
-        "wordcount": 150,
-        "Category": "declaring special holidays,holidays for government offices",
-        "Year": "2021",
-        "Size": "149.0",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Declaring 02 Special Holidays for Government Offices-1664962777.100283.txt": {
-        "wordcount": 189,
-        "Category": "declarations,special holidays,government offices",
-        "Year": "2022",
-        "Size": "144.1",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Declaring a Special Holiday for Government Offices-1664960815.2218037.txt": {
-        "wordcount": 140,
-        "Category": "declarations,special holidays,government offices",
-        "Year": "2022",
-        "Size": "81.4",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Declaring National Sports Day-1664960588.0759418.txt": {
-        "wordcount": 451,
-        "Category": "declarations,national sport day",
-        "Year": "2021",
-        "Size": "318.4",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1664959826.6609457.txt": {
-        "wordcount": 264,
-        "Category": "deferment of salary increments,non-completion,efficiency bar examination,bar examination,salary increments",
-        "Year": "2018",
-        "Size": "241.4",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Deferment of salary increments on not completing the efficiency bar-1664961742.7781363.txt": {
-        "wordcount": 235,
-        "Category": "deferment of salary increments,not completing the efficiency bar",
-        "Year": "2019",
-        "Size": "190.0",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Determining the Salary that should be made Applicable when appointing an Ex-serviceman-1664961922.8350275.txt": {
-        "wordcount": 304,
-        "Category": "salary,ex-serviceman",
-        "Year": "2021",
-        "Size": "253.1",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Duty Hours and Leave of Public Officers-1664961673.1467948.txt": {
-        "wordcount": 155,
-        "Category": "duty hours and leave,public officers",
-        "Year": "2016",
-        "Size": "174.3",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1664960258.7910733.txt": {
-        "wordcount": 110,
-        "Category": "efficiency bar examination,bar examination,officers in class III,public management assistants service",
-        "Year": "2014",
-        "Size": "224.7",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Ensuring public service without interruption 02-2021-1664962239.8315222.txt": {
-        "wordcount": 414,
-        "Category": "public serice",
-        "Year": "2021",
-        "Size": "108.2",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Ensuring Public Service without Interruption-1664960039.139582.txt": {
-        "wordcount": 527,
-        "Category": "ensuring public service,public service without interruption",
-        "Year": "2021",
-        "Size": "300.0",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Entering Data of the Officers in Public Institutions and their families to the e-Grama Niladhari System-1664959929.3868942.txt": {
-        "wordcount": 1611,
-        "Category": "entering data,officers in public institutions,families of officers in public institutions,e-grama niladhari,system",
-        "Year": "2021",
-        "Size": "612.6",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Entitlement of Duty Leave for the Public Officers to Appear for the Examinations-1664961649.2099302.txt": {
-        "wordcount": 246,
-        "Category": "entitlement of duty leave,public officers,examination",
-        "Year": "3134",
-        "Size": "28.4",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Entrusting of Official Responsibilities and Handing Over of Documents in Proper Manner-1664961393.3782997.txt": {
-        "wordcount": 698,
-        "Category": "entrusting of official responsibilities,handing over of documents",
-        "Year": "2017",
-        "Size": "201.7",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Establishment of a Pool of Translators-1664962536.5868056.txt": {
-        "wordcount": 386,
-        "Category": "establishments,pool of translators",
-        "Year": "2021",
-        "Size": "274.0",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Establishment of Advisory Committees and Institutional Coordinating and Monitoring Committees-1664960508.9750845.txt": {
-        "wordcount": 227,
-        "Category": "establishments,advisory committee,institutional coordinating & monitoring committee",
-        "Year": "2015",
-        "Size": "13.5",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Expression of opinions on social media by public officers-1664960569.600672.txt": {
-        "wordcount": 258,
-        "Category": "expression of opinions,social media,public officers",
-        "Year": "2022",
-        "Size": "410.0",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Extending the benefits under Agrahara Insurance Scheme-1664961500.2966003.txt": {
-        "wordcount": 161,
-        "Category": "extending the benefits,agrahara insurance scheme",
-        "Year": "2005",
-        "Size": "66.5",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Extension of the Age of Compulsory Retirement of the Public Officers up to 65 years-1664962468.5545437.txt": {
-        "wordcount": 563,
-        "Category": "compulsory retirement,public officers,65",
-        "Year": "2022",
-        "Size": "191.0",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Forwarding Representations of Public Officers to the Higher Authority-1664961246.1293852.txt": {
-        "wordcount": 284,
-        "Category": "forwarding representations,public officers,higher authority",
-        "Year": "2015",
-        "Size": "89.4",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Gifts and Subscriptions-1664962406.7763653.txt": {
-        "wordcount": 207,
-        "Category": "gifts & subscriptions",
-        "Year": "2016",
-        "Size": "7.0",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Giving Priority to Elders Identity Cards-1664961905.9153674.txt": {
-        "wordcount": 212,
-        "Category": "elders ID",
-        "Year": null,
-        "Size": "68.2",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Granting a monthly allowance of Rs 5000 to Public Officers and Pensioners-1664960902.0280535.txt": {
-        "wordcount": 384,
-        "Category": "granting monthly allowance,public officers,pensioners",
-        "Year": "2022",
-        "Size": "385.3",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Granting leave to participate as a Referee in an international competition-1664961329.2224414.txt": {
-        "wordcount": 136,
-        "Category": "granting leaves,particitipate as a refreee in an international competition",
-        "Year": "2022",
-        "Size": "166.5",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Granting of Extension of Service Beyond 55 Years of Age to Public Officers-1664962156.755328.txt": {
-        "wordcount": 183,
-        "Category": "extension of serice,55 yers,public officers",
-        "Year": "2004",
-        "Size": "5.0",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Granting of Leave to Graduate Trainees-1664962497.0377452.txt": {
-        "wordcount": 279,
-        "Category": "leave,graduate trainees",
-        "Year": "2021",
-        "Size": "479.1",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Granting of Maternity leave in Terms of Public Administration Circular 04-2005-1664959853.1411166.txt": {
-        "wordcount": 302,
-        "Category": "granting of maternity leave,maternity leave",
-        "Year": "2013",
-        "Size": "22.9",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Granting of Special Leave during the Ramalan Ramazan Season 2021-1664962581.676714.txt": {
-        "wordcount": 229,
-        "Category": "special leave,ramalan,ramazan",
-        "Year": "2021",
-        "Size": "430.7",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Granting of Special Leave during the Ramalan-Ramazan Season 2022-1664962798.6110024.txt": {
-        "wordcount": 229,
-        "Category": "special leave,ramalan,ramazan",
-        "Year": "2022",
-        "Size": "236.4",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Granting Period of Concession for Officers absorbed into Class II-1664962008.8234174.txt": {
-        "wordcount": 905,
-        "Category": "period of concession,officers absorbed into class II",
-        "Year": "2017",
-        "Size": "252.7",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Granting Period of Concession for Officers-1664960793.0874386.txt": {
-        "wordcount": 732,
-        "Category": "granting period of concession,officers",
-        "Year": "2018",
-        "Size": "232.1",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Granting period of concession to the officers absorbed into Class II Grade II-1664961160.128082.txt": {
-        "wordcount": 853,
-        "Category": "period of concession,officers absorbed,class II grade II",
-        "Year": "2019",
-        "Size": "228.3",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Granting Permanent Appointments as per budget proposals 2015-1664962131.2641041.txt": {
-        "wordcount": 195,
-        "Category": "permanent appointments,budget proposals",
-        "Year": "2014",
-        "Size": "15.8",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Guidelines to be followed when the issues related to Salaries-1664962102.33583.txt": {
-        "wordcount": 1167,
-        "Category": "guidelines,salary",
-        "Year": "2015",
-        "Size": "115.1",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Implementation of the Minute of Public Management Assistants\u2019 Service-1664962040.7488291.txt": {
-        "wordcount": 1184,
-        "Category": "implementations,minutes,public management assistants service",
-        "Year": "2014",
-        "Size": "181.4",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Implementation of the Official Language Policy-1664960352.0027173.txt": {
-        "wordcount": 351,
-        "Category": "implementations,official language policy",
-        "Year": "2013",
-        "Size": "39.7",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Implementation of the Official Languages Policy 2014-1664962514.992716.txt": {
-        "wordcount": 152,
-        "Category": "implementations,official languages policy",
-        "Year": "2014",
-        "Size": "19.2",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Implementation of the Official Languages Policy 2017-1664961798.7788796.txt": {
-        "wordcount": 186,
-        "Category": "implementations,official language policy",
-        "Year": "2017",
-        "Size": "128.7",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Implementation of the Official Languages Policy-1664960923.0106533.txt": {
-        "wordcount": 146,
-        "Category": "implementations,official language policy",
-        "Year": "2021",
-        "Size": "275.8",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Implementing a Programme to minimize the Effect of using Plastic Polythene-1664961193.4918869.txt": {
-        "wordcount": 374,
-        "Category": "implementations,minimize the effect of using plastic polythene",
-        "Year": "2016",
-        "Size": "112.1",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Implementing the instructions in the Public Administration Circulars-1664961422.0507877.txt": {
-        "wordcount": 310,
-        "Category": "implementations,instructions in the public administration",
-        "Year": null,
-        "Size": "186.8",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Implementing the National Tree Planting Programme-1664960214.9075782.txt": {
-        "wordcount": 214,
-        "Category": "implementations,national programmes,national tree planting programme",
-        "Year": "2019",
-        "Size": "178.3",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Indicating the Number of the NIC in the Loan Application Forms-1664960617.5957158.txt": {
-        "wordcount": 121,
-        "Category": "number of the NIC,loan application form",
-        "Year": "2012",
-        "Size": "21.9",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Insurance of Government Vehicles with the National Insurance Trust Fund-1664960103.7434902.txt": {
-        "wordcount": 298,
-        "Category": "insurance of government vehicles,national insurance trust fund",
-        "Year": "2014",
-        "Size": "44.1",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Maintaining the Public Service under Normalcy-1664962169.1982644.txt": {
-        "wordcount": 212,
-        "Category": "pulic service",
-        "Year": "2021",
-        "Size": "99.1",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Management of Public Finance-1664960702.904504.txt": {
-        "wordcount": 199,
-        "Category": "management,public finance",
-        "Year": "2010",
-        "Size": "176.4",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\No Pay Leave for Public Officers who require to Obtain Treatments for Sub Fertility-1664962371.1664214.txt": {
-        "wordcount": 253,
-        "Category": "no pay leave,public officers,treatment for sub fertility",
-        "Year": "2017",
-        "Size": "361.1",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Office Hours of the Public Officers-1664962182.6624622.txt": {
-        "wordcount": 207,
-        "Category": "office hours,public officers",
-        "Year": "2015",
-        "Size": "178.9",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Passing over the Efficiency Bar of Grade II of the Sri Lanka Administrative Service-1664961776.6685421.txt": {
-        "wordcount": 158,
-        "Category": "efficiency bar,grade II,administrative service",
-        "Year": "2015",
-        "Size": "6.2",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Payment for Disciplinary Inquiries-1664961822.7489548.txt": {
-        "wordcount": 189,
-        "Category": "payments,disciplinary inquiries",
-        "Year": "2014",
-        "Size": "13.8",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1664961291.8692682.txt": {
-        "wordcount": 195,
-        "Category": "payment of claims,agrahara insurance scheme,public officers,covid-19,covid-19 positive",
-        "Year": "2021",
-        "Size": "28.8",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Payment of Compensation to Public Officers-1664960769.5783393.txt": {
-        "wordcount": 289,
-        "Category": "payment of compensation,public officers",
-        "Year": null,
-        "Size": "37.2",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Payment of Incentive Allowances to Public Officers proficient in more than one language-1664960177.168576.txt": {
-        "wordcount": 240,
-        "Category": "incentive allowances,public officers,officers proficient in many languages",
-        "Year": "2017",
-        "Size": "28.7",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Payment of salaries to public officers entitled to political rights-1664962305.161864.txt": {
-        "wordcount": 199,
-        "Category": "payments,salaries,public officers,political rights",
-        "Year": "2021",
-        "Size": "297.7",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Posts in the Public Service and Provincial Public Service belonging to Field Officer Category-1664962221.659417.txt": {
-        "wordcount": 200,
-        "Category": "posts,public service,provincil public service,field officers",
-        "Year": "2018",
-        "Size": "97.2",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Preparation of Salary of the Officers-1664962611.2077432.txt": {
-        "wordcount": 287,
-        "Category": "salary,officers",
-        "Year": "2017",
-        "Size": "126.5",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Preparation of Transfer Schemes for all Services in Public Sector-1664961084.1085143.txt": {
-        "wordcount": 184,
-        "Category": "transfer schemes,all services,public sector",
-        "Year": "2012",
-        "Size": "33.1",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Prevention of Dengue Epidemic-1664960688.3315833.txt": {
-        "wordcount": 228,
-        "Category": "prevention,dengue,epidemic",
-        "Year": "2004",
-        "Size": "21.5",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Promotion to Grade II of Public Management Assistants\u2019 Service-1664961117.7209966.txt": {
-        "wordcount": 256,
-        "Category": "promotions,grade II,public management assistants service",
-        "Year": "2018",
-        "Size": "207.6",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Providing Copies of Circulars to Trade Unions-1664961010.3391879.txt": {
-        "wordcount": 115,
-        "Category": "providing copies of circulars,trade union",
-        "Year": null,
-        "Size": "40.0",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Providing Employment for the Disabled-1664961357.626822.txt": {
-        "wordcount": 103,
-        "Category": "providing employment,disabled,differently abled",
-        "Year": "2018",
-        "Size": "19.5",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Providing relief to officers in Grade III-1664962554.970407.txt": {
-        "wordcount": 320,
-        "Category": "providing relief,officers,grade III",
-        "Year": "2016",
-        "Size": "92.9",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Providing Relief to Public Officers-1664961209.9079404.txt": {
-        "wordcount": 206,
-        "Category": "providing relief,public officers",
-        "Year": "2020",
-        "Size": "34.4",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Providing Relief with regard to Reduction of a Salary Increment-1664960951.8353899.txt": {
-        "wordcount": 378,
-        "Category": "providing relief,reduction of salary increments",
-        "Year": "2019",
-        "Size": "196.1",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Public Administration Circulars issued amending the provisions of the Establishments Code - 2020-1664962666.5930853.txt": {
-        "wordcount": 88,
-        "Category": "public administration circulars,provisions of the establishments code",
-        "Year": "2021",
-        "Size": "119.3",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Re-employment of Retired Public Officers-1664962392.6284685.txt": {
-        "wordcount": 240,
-        "Category": "re-employment,retired public officers",
-        "Year": "2019",
-        "Size": "140.1",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Re-registration of Old Members of Widows Widowers Orphans Pension-1664961963.3778079.txt": {
-        "wordcount": 200,
-        "Category": "re-registration,old members,widows widowers orphans pension",
-        "Year": "2017",
-        "Size": "448.3",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Recovery of Installments of Lady Lochore Loan Fund-1664960544.7749212.txt": {
-        "wordcount": 154,
-        "Category": "recovery of installments,lady lochore loan fund",
-        "Year": "2015",
-        "Size": "27.3",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1664960455.6064787.txt": {
-        "wordcount": 219,
-        "Category": "exemption of the officers,efficiency bar examination",
-        "Year": "2022",
-        "Size": "209.3",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Reimbursement of Training Allowance to Officers-1664961864.883352.txt": {
-        "wordcount": 414,
-        "Category": "reimbursements,training allowance,officers",
-        "Year": "2007",
-        "Size": "82.8",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Replying to the Letters, E-mails and Telephone Call Received from the Public-1665018525.2100363.txt": {
-        "wordcount": 608,
-        "Category": "sunmiri,sumiri",
-        "Year": "2022",
-        "Size": "217.0",
-        "lastmodtime": "Thu Oct  6 06:38:45 2022"
-    },
-    "ScrapedPDFs\\Resolving the Issues related to Grade Promotions of the Officers-1664962601.4047787.txt": {
-        "wordcount": 310,
-        "Category": "grade promotions,officers",
-        "Year": "2018",
-        "Size": "290.6",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Restricting the Calling of Staff in Public Institutions-1665018606.6486323.txt": {
-        "wordcount": 300,
-        "Category": "YTR,restrictg",
-        "Year": "2022",
-        "Size": "84.2",
-        "lastmodtime": "Thu Oct  6 06:40:06 2022"
-    },
-    "ScrapedPDFs\\Resuming and maintaining the functions of Government Institutions during COVID-19 29-4-1664960416.9773998.txt": {
-        "wordcount": 379,
-        "Category": "resuming & maintaining the functions,government institutions,covid-19,pandemic",
-        "Year": "2020",
-        "Size": "69.6",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Resuming and maintaining the functions of Government Institutions during COVID-19-1664962750.6296082.txt": {
-        "wordcount": 169,
-        "Category": "resuming and maintaining the functions,government institutions,covid-19",
-        "Year": "2020",
-        "Size": "32.9",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Revision of Salaries in Public Service \u2013 2016-1664962700.7300665.txt": {
-        "wordcount": 114,
-        "Category": "revision of salaries,public service",
-        "Year": "2017",
-        "Size": "170.5",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Revision of the duty leave granted to the officers entitled to Political Rights-1664959999.6291811.txt": {
-        "wordcount": 543,
-        "Category": "revision of the duty leave,officers entitled to political rights",
-        "Year": "2021",
-        "Size": "196.2",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Revision of the Service Minute of Sri Lanka Engineering Service as per P A Circular no 06-2006-1664959734.6513402.txt": {
-        "wordcount": 1224,
-        "Category": "revision of service minutes,service minutes,engineering service",
-        "Year": "2006",
-        "Size": "1175.3",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Saving Electricity and Fuel-1664960271.4813514.txt": {
-        "wordcount": 1329,
-        "Category": "saving,electricity,fuel",
-        "Year": "2022",
-        "Size": "379.0",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Special Advance for Public Officers \u2013 Year 2021-1664962682.325894.txt": {
-        "wordcount": 193,
-        "Category": "special advance,public officers",
-        "Year": "2021",
-        "Size": "404.5",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
-    },
-    "ScrapedPDFs\\Special Advance to Public Officers \u2013 Year 2021-1664962627.2021244.txt": {
+    "ScrapedPDFs/Special Advance to Public Officers \u2013 Year 2021-1664962627.2021244.txt": {
         "wordcount": 246,
         "Category": "special advance,public officers",
         "Year": "2020",
         "Size": "261.0",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
     },
-    "ScrapedPDFs\\Supplementary Festival Loan Scheme-1664962482.0794792.txt": {
-        "wordcount": 334,
-        "Category": "festival loan scheme",
-        "Year": "2020",
-        "Size": "87.5",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
+    "ScrapedPDFs/Providing relief to officers in Grade III-1664962554.970407.txt": {
+        "wordcount": 320,
+        "Category": "providing relief,officers,grade III",
+        "Year": "2016",
+        "Size": "92.9",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
     },
-    "ScrapedPDFs\\Supply of Fuel for Official Vehicles and Payment of OT and Combined Allowances to Drivers-1664960664.6196892.txt": {
-        "wordcount": 205,
-        "Category": "supply of fuel,official vehicles,payment of OT,combined allowances,drivers",
-        "Year": "2008",
-        "Size": "58.9",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
+    "ScrapedPDFs/Declaring a Special Holiday for Government Offices-1664960815.2218037.txt": {
+        "wordcount": 140,
+        "Category": "declarations,special holidays,government offices",
+        "Year": "2022",
+        "Size": "81.4",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
     },
-    "ScrapedPDFs\\The Constitution and the Provisions regarding the use of Sinhala Tamil English Languages-1664961059.7117813.txt": {
+    "ScrapedPDFs/Giving Priority to Elders Identity Cards-1664961905.9153674.txt": {
+        "wordcount": 212,
+        "Category": "elders ID",
+        "Year": null,
+        "Size": "68.2",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Granting leave to participate as a Referee in an international competition-1664961329.2224414.txt": {
+        "wordcount": 136,
+        "Category": "granting leaves,particitipate as a refreee in an international competition",
+        "Year": "2022",
+        "Size": "166.5",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Annual Transfers of Officers in Combined Services - 2022-1664961984.836818.txt": {
+        "wordcount": 119,
+        "Category": "annual transfer,officers,combined services",
+        "Year": "2021",
+        "Size": "69.6",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Granting of Extension of Service Beyond 55 Years of Age to Public Officers-1664962156.755328.txt": {
+        "wordcount": 183,
+        "Category": "extension of serice,55 yers,public officers",
+        "Year": "2004",
+        "Size": "5.0",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Gifts and Subscriptions-1664962406.7763653.txt": {
+        "wordcount": 207,
+        "Category": "gifts & subscriptions",
+        "Year": "2016",
+        "Size": "7.0",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Payment of Compensation to Public Officers-1664960769.5783393.txt": {
+        "wordcount": 289,
+        "Category": "payment of compensation,public officers",
+        "Year": null,
+        "Size": "37.2",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Reimbursement of Training Allowance to Officers-1664961864.883352.txt": {
+        "wordcount": 414,
+        "Category": "reimbursements,training allowance,officers",
+        "Year": "2007",
+        "Size": "82.8",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/The Constitution and the Provisions regarding the use of Sinhala Tamil English Languages-1664961059.7117813.txt": {
         "wordcount": 295,
         "Category": "the constitution and the provisions,use of Sinhala Tamil English languages",
         "Year": "2012",
         "Size": "36.2",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
     },
-    "ScrapedPDFs\\Uniforms and Tailoring Fees for Drivers and Minor Staff Grades-1664961558.4962237.txt": {
+    "ScrapedPDFs/Declaring 02 Special Holidays for Government Offices-1664962777.100283.txt": {
+        "wordcount": 189,
+        "Category": "declarations,special holidays,government offices",
+        "Year": "2022",
+        "Size": "144.1",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Establishment of Advisory Committees and Institutional Coordinating and Monitoring Committees-1664960508.9750845.txt": {
+        "wordcount": 227,
+        "Category": "establishments,advisory committee,institutional coordinating & monitoring committee",
+        "Year": "2015",
+        "Size": "13.5",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Payment for Disciplinary Inquiries-1664961822.7489548.txt": {
+        "wordcount": 189,
+        "Category": "payments,disciplinary inquiries",
+        "Year": "2014",
+        "Size": "13.8",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Granting of Leave to Graduate Trainees-1664962497.0377452.txt": {
+        "wordcount": 279,
+        "Category": "leave,graduate trainees",
+        "Year": "2021",
+        "Size": "479.1",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Extension of the Age of Compulsory Retirement of the Public Officers up to 65 years-1664962468.5545437.txt": {
+        "wordcount": 563,
+        "Category": "compulsory retirement,public officers,65",
+        "Year": "2022",
+        "Size": "191.0",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Uniforms and Tailoring Fees for Drivers and Minor Staff Grades-1664961558.4962237.txt": {
         "wordcount": 290,
         "Category": "uniforms & tailoring fees,drivers,minor staff grades",
         "Year": "2016",
         "Size": "169.8",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
     },
-    "ScrapedPDFs\\Using the Finger Scanners to confirm the Arrival and Departure-1664962262.0890815.txt": {
+    "ScrapedPDFs/Granting Permanent Appointments as per budget proposals 2015-1664962131.2641041.txt": {
+        "wordcount": 195,
+        "Category": "permanent appointments,budget proposals",
+        "Year": "2014",
+        "Size": "15.8",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Resolving the Issues related to Grade Promotions of the Officers-1664962601.4047787.txt": {
+        "wordcount": 310,
+        "Category": "grade promotions,officers",
+        "Year": "2018",
+        "Size": "290.6",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Re-registration of Old Members of Widows Widowers Orphans Pension-1664961963.3778079.txt": {
+        "wordcount": 200,
+        "Category": "re-registration,old members,widows widowers orphans pension",
+        "Year": "2017",
+        "Size": "448.3",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1664961694.3382146.txt": {
+        "wordcount": 195,
+        "Category": "agrahara insurance scheme,public officers",
+        "Year": "2003",
+        "Size": "12.7",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Providing Copies of Circulars to Trade Unions-1664961010.3391879.txt": {
+        "wordcount": 115,
+        "Category": "providing copies of circulars,trade union",
+        "Year": null,
+        "Size": "40.0",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Insurance of Government Vehicles with the National Insurance Trust Fund-1664960103.7434902.txt": {
+        "wordcount": 298,
+        "Category": "insurance of government vehicles,national insurance trust fund",
+        "Year": "2014",
+        "Size": "44.1",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Providing Relief with regard to Reduction of a Salary Increment-1664960951.8353899.txt": {
+        "wordcount": 378,
+        "Category": "providing relief,reduction of salary increments",
+        "Year": "2019",
+        "Size": "196.1",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Providing Relief to Public Officers-1664961209.9079404.txt": {
+        "wordcount": 206,
+        "Category": "providing relief,public officers",
+        "Year": "2020",
+        "Size": "34.4",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Promotion to Grade II of Public Management Assistants\u2019 Service-1664961117.7209966.txt": {
+        "wordcount": 256,
+        "Category": "promotions,grade II,public management assistants service",
+        "Year": "2018",
+        "Size": "207.6",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Competitive Examination for Promotion to the Supra Grade-1664962434.9521823.txt": {
+        "wordcount": 177,
+        "Category": "competitive examination,promotion,supra grade",
+        "Year": "2021",
+        "Size": "278.5",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Ensuring public service without interruption 02-2021-1664962239.8315222.txt": {
+        "wordcount": 414,
+        "Category": "public serice",
+        "Year": "2021",
+        "Size": "108.2",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Management of Public Finance-1664960702.904504.txt": {
+        "wordcount": 199,
+        "Category": "management,public finance",
+        "Year": "2010",
+        "Size": "176.4",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Payment of salaries to public officers entitled to political rights-1664962305.161864.txt": {
+        "wordcount": 199,
+        "Category": "payments,salaries,public officers,political rights",
+        "Year": "2021",
+        "Size": "297.7",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Implementation of the Official Languages Policy-1664960923.0106533.txt": {
+        "wordcount": 146,
+        "Category": "implementations,official language policy",
+        "Year": "2021",
+        "Size": "275.8",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Implementing the National Tree Planting Programme-1664960214.9075782.txt": {
+        "wordcount": 214,
+        "Category": "implementations,national programmes,national tree planting programme",
+        "Year": "2019",
+        "Size": "178.3",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Payment of Incentive Allowances to Public Officers proficient in more than one language-1664960177.168576.txt": {
+        "wordcount": 240,
+        "Category": "incentive allowances,public officers,officers proficient in many languages",
+        "Year": "2017",
+        "Size": "28.7",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Restricting the Calling of Staff in Public Institutions-1665018606.6486323.txt": {
+        "wordcount": 300,
+        "Category": "YTR,restrictg",
+        "Year": "2022",
+        "Size": "84.2",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1664960258.7910733.txt": {
+        "wordcount": 110,
+        "Category": "efficiency bar examination,bar examination,officers in class III,public management assistants service",
+        "Year": "2014",
+        "Size": "224.7",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Re-employment of Retired Public Officers-1664962392.6284685.txt": {
+        "wordcount": 240,
+        "Category": "re-employment,retired public officers",
+        "Year": "2019",
+        "Size": "140.1",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Replying to the Letters, E-mails and Telephone Call Received from the Public-1665018525.2100363.txt": {
+        "wordcount": 608,
+        "Category": "sunmiri,sumiri",
+        "Year": "2022",
+        "Size": "217.0",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Providing Employment for the Disabled-1664961357.626822.txt": {
+        "wordcount": 103,
+        "Category": "providing employment,disabled,differently abled",
+        "Year": "2018",
+        "Size": "19.5",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Maintaining the Public Service under Normalcy-1664962169.1982644.txt": {
+        "wordcount": 212,
+        "Category": "pulic service",
+        "Year": "2021",
+        "Size": "99.1",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Resuming and maintaining the functions of Government Institutions during COVID-19 29-4-1664960416.9773998.txt": {
+        "wordcount": 379,
+        "Category": "resuming & maintaining the functions,government institutions,covid-19,pandemic",
+        "Year": "2020",
+        "Size": "69.6",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1664960333.8224313.txt": {
+        "wordcount": 178,
+        "Category": "computer test,efficiency bar examination",
+        "Year": "2017",
+        "Size": "217.5",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Posts in the Public Service and Provincial Public Service belonging to Field Officer Category-1664962221.659417.txt": {
+        "wordcount": 200,
+        "Category": "posts,public service,provincil public service,field officers",
+        "Year": "2018",
+        "Size": "97.2",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Attendance of the Officers in the Public Service on 20-05-2022-1664961525.173773.txt": {
+        "wordcount": 161,
+        "Category": "attendance of officers,public service",
+        "Year": "2022",
+        "Size": "80.2",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1664961291.8692682.txt": {
+        "wordcount": 195,
+        "Category": "payment of claims,agrahara insurance scheme,public officers,covid-19,covid-19 positive",
+        "Year": "2021",
+        "Size": "28.8",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Implementation of the Official Languages Policy 2014-1664962514.992716.txt": {
+        "wordcount": 152,
+        "Category": "implementations,official languages policy",
+        "Year": "2014",
+        "Size": "19.2",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1664961742.7781363.txt": {
+        "wordcount": 235,
+        "Category": "deferment of salary increments,not completing the efficiency bar",
+        "Year": "2019",
+        "Size": "190.0",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Granting of Special Leave during the Ramalan Ramazan Season 2021-1664962581.676714.txt": {
+        "wordcount": 229,
+        "Category": "special leave,ramalan,ramazan",
+        "Year": "2021",
+        "Size": "430.7",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Special Advance for Public Officers \u2013 Year 2021-1664962682.325894.txt": {
+        "wordcount": 193,
+        "Category": "special advance,public officers",
+        "Year": "2021",
+        "Size": "404.5",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Entrusting of Official Responsibilities and Handing Over of Documents in Proper Manner-1664961393.3782997.txt": {
+        "wordcount": 698,
+        "Category": "entrusting of official responsibilities,handing over of documents",
+        "Year": "2017",
+        "Size": "201.7",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Passing over the Efficiency Bar of Grade II of the Sri Lanka Administrative Service-1664961776.6685421.txt": {
+        "wordcount": 158,
+        "Category": "efficiency bar,grade II,administrative service",
+        "Year": "2015",
+        "Size": "6.2",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Office Hours of the Public Officers-1664962182.6624622.txt": {
+        "wordcount": 207,
+        "Category": "office hours,public officers",
+        "Year": "2015",
+        "Size": "178.9",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Conversion of Salary at Promotion-1664960721.8972507.txt": {
+        "wordcount": 342,
+        "Category": "conversion of salary,promotion",
+        "Year": "2014",
+        "Size": "36.2",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Revision of Salaries in Public Service \u2013 2016-1664962700.7300665.txt": {
+        "wordcount": 114,
+        "Category": "revision of salaries,public service",
+        "Year": "2017",
+        "Size": "170.5",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Implementation of the Official Language Policy-1664960352.0027173.txt": {
+        "wordcount": 351,
+        "Category": "implementations,official language policy",
+        "Year": "2013",
+        "Size": "39.7",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Competitive Examination for Promotion to the Supra Grade 2021-1664960306.08854.txt": {
+        "wordcount": 169,
+        "Category": "competitie examnation,promotion,supra grade",
+        "Year": "2021",
+        "Size": "190.8",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Supplementary Festival Loan Scheme-1664962482.0794792.txt": {
+        "wordcount": 334,
+        "Category": "festival loan scheme",
+        "Year": "2020",
+        "Size": "87.5",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Entering Data of the Officers in Public Institutions and their families to the e-Grama Niladhari System-1664959929.3868942.txt": {
+        "wordcount": 1611,
+        "Category": "entering data,officers in public institutions,families of officers in public institutions,e-grama niladhari,system",
+        "Year": "2021",
+        "Size": "612.6",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Implementation of the Minute of Public Management Assistants\u2019 Service-1664962040.7488291.txt": {
+        "wordcount": 1184,
+        "Category": "implementations,minutes,public management assistants service",
+        "Year": "2014",
+        "Size": "181.4",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Preparation of Transfer Schemes for all Services in Public Sector-1664961084.1085143.txt": {
+        "wordcount": 184,
+        "Category": "transfer schemes,all services,public sector",
+        "Year": "2012",
+        "Size": "33.1",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Using the Finger Scanners to confirm the Arrival and Departure-1664962262.0890815.txt": {
         "wordcount": 232,
         "Category": "finger scanner,confirm arrival and departure",
         "Year": "2017",
         "Size": "38.7",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
     },
-    "ScrapedPDFs\\Widening the Opportunities of preventing the Fraudulent Payment of Pension for the Pensioners who have demised-1664962343.745441.txt": {
-        "wordcount": 880,
-        "Category": "preventing the fraudulent payment,pension",
-        "Year": "2019",
-        "Size": "227.1",
-        "lastmodtime": "Thu Oct  6 05:58:18 2022"
+    "ScrapedPDFs/Declaring 02 Special Holidays for Government Offices 2021-1664960077.4584062.txt": {
+        "wordcount": 150,
+        "Category": "declaring special holidays,holidays for government offices",
+        "Year": "2021",
+        "Size": "149.0",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
     },
-    "ScrapedPDFs\\Revision of the Sections of Chapter XII, Volume I of Establishment Code-1665336510.5887187.txt": {
+    "ScrapedPDFs/Revision of the Service Minute of Sri Lanka Engineering Service as per P A Circular no 06-2006-1664959734.6513402.txt": {
+        "wordcount": 1224,
+        "Category": "revision of service minutes,service minutes,engineering service",
+        "Year": "2006",
+        "Size": "1175.3",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Revision of the Sections of Chapter XII, Volume I of Establishment Code-1665336510.5887187.txt": {
         "wordcount": 633,
         "Category": "Revision of the Sections of Chapter XII",
         "Year": "2022",
         "Size": "253.6",
-        "lastmodtime": "Sun Oct  9 22:58:30 2022"
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Determining the Salary that should be made Applicable when appointing an Ex-serviceman-1664961922.8350275.txt": {
+        "wordcount": 304,
+        "Category": "salary,ex-serviceman",
+        "Year": "2021",
+        "Size": "253.1",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Preparation of Salary of the Officers-1664962611.2077432.txt": {
+        "wordcount": 287,
+        "Category": "salary,officers",
+        "Year": "2017",
+        "Size": "126.5",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Granting Period of Concession for Officers absorbed into Class II-1664962008.8234174.txt": {
+        "wordcount": 905,
+        "Category": "period of concession,officers absorbed into class II",
+        "Year": "2017",
+        "Size": "252.7",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1664961500.2966003.txt": {
+        "wordcount": 161,
+        "Category": "extending the benefits,agrahara insurance scheme",
+        "Year": "2005",
+        "Size": "66.5",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Resuming and maintaining the functions of Government Institutions during COVID-19-1664962750.6296082.txt": {
+        "wordcount": 169,
+        "Category": "resuming and maintaining the functions,government institutions,covid-19",
+        "Year": "2020",
+        "Size": "32.9",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Granting a monthly allowance of Rs 5000 to Public Officers and Pensioners-1664960902.0280535.txt": {
+        "wordcount": 384,
+        "Category": "granting monthly allowance,public officers,pensioners",
+        "Year": "2022",
+        "Size": "385.3",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Granting of Special Leave during the Ramalan-Ramazan Season 2022-1664962798.6110024.txt": {
+        "wordcount": 229,
+        "Category": "special leave,ramalan,ramazan",
+        "Year": "2022",
+        "Size": "236.4",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Implementing a Programme to minimize the Effect of using Plastic Polythene-1664961193.4918869.txt": {
+        "wordcount": 374,
+        "Category": "implementations,minimize the effect of using plastic polythene",
+        "Year": "2016",
+        "Size": "112.1",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Duty Hours and Leave of Public Officers-1664961673.1467948.txt": {
+        "wordcount": 155,
+        "Category": "duty hours and leave,public officers",
+        "Year": "2016",
+        "Size": "174.3",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Public Administration Circulars issued amending the provisions of the Establishments Code - 2020-1664962666.5930853.txt": {
+        "wordcount": 88,
+        "Category": "public administration circulars,provisions of the establishments code",
+        "Year": "2021",
+        "Size": "119.3",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Implementation of the Official Languages Policy 2017-1664961798.7788796.txt": {
+        "wordcount": 186,
+        "Category": "implementations,official language policy",
+        "Year": "2017",
+        "Size": "128.7",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Prevention of Dengue Epidemic-1664960688.3315833.txt": {
+        "wordcount": 228,
+        "Category": "prevention,dengue,epidemic",
+        "Year": "2004",
+        "Size": "21.5",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Declaring National Sports Day-1664960588.0759418.txt": {
+        "wordcount": 451,
+        "Category": "declarations,national sport day",
+        "Year": "2021",
+        "Size": "318.4",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1664961471.484886.txt": {
+        "wordcount": 224,
+        "Category": "computer test,efficiency bar examination,officers",
+        "Year": "2017",
+        "Size": "152.4",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Amending Service Minutes Schemes of Recruitment and Promotions in Public Service-1664960873.625949.txt": {
+        "wordcount": 202,
+        "Category": "amending service minutes,schemes of recruitment,promotions in public service",
+        "Year": "2012",
+        "Size": "35.6",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Granting of Maternity leave in Terms of Public Administration Circular 04-2005-1664959853.1411166.txt": {
+        "wordcount": 302,
+        "Category": "granting of maternity leave,maternity leave",
+        "Year": "2013",
+        "Size": "22.9",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Widening the Opportunities of preventing the Fraudulent Payment of Pension for the Pensioners who have demised-1664962343.745441.txt": {
+        "wordcount": 880,
+        "Category": "preventing the fraudulent payment,pension",
+        "Year": "2019",
+        "Size": "227.1",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/No Pay Leave for Public Officers who require to Obtain Treatments for Sub Fertility-1664962371.1664214.txt": {
+        "wordcount": 253,
+        "Category": "no pay leave,public officers,treatment for sub fertility",
+        "Year": "2017",
+        "Size": "361.1",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Ensuring Public Service without Interruption-1664960039.139582.txt": {
+        "wordcount": 527,
+        "Category": "ensuring public service,public service without interruption",
+        "Year": "2021",
+        "Size": "300.0",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Revision of the duty leave granted to the officers entitled to Political Rights-1664959999.6291811.txt": {
+        "wordcount": 543,
+        "Category": "revision of the duty leave,officers entitled to political rights",
+        "Year": "2021",
+        "Size": "196.2",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Establishment of a Pool of Translators-1664962536.5868056.txt": {
+        "wordcount": 386,
+        "Category": "establishments,pool of translators",
+        "Year": "2021",
+        "Size": "274.0",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Expression of opinions on social media by public officers-1664960569.600672.txt": {
+        "wordcount": 258,
+        "Category": "expression of opinions,social media,public officers",
+        "Year": "2022",
+        "Size": "410.0",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Granting Period of Concession for Officers-1664960793.0874386.txt": {
+        "wordcount": 732,
+        "Category": "granting period of concession,officers",
+        "Year": "2018",
+        "Size": "232.1",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/ANNUAL TRANSFERS OF OFFICERS IN SUPRA CLASS OF MANAGEMENT SERVICES OFFICER - 2023-1664962079.2114897.txt": {
+        "wordcount": 4100,
+        "Category": "annual transfer,officers,supra class,management service",
+        "Year": "2022",
+        "Size": "420.0",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Forwarding Representations of Public Officers to the Higher Authority-1664961246.1293852.txt": {
+        "wordcount": 284,
+        "Category": "forwarding representations,public officers,higher authority",
+        "Year": "2015",
+        "Size": "89.4",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/68th Independence Day Celebration \u2013 2016-1664962275.4794059.txt": {
+        "wordcount": 123,
+        "Category": "independence day",
+        "Year": "2016",
+        "Size": "117.5",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1664959826.6609457.txt": {
+        "wordcount": 264,
+        "Category": "deferment of salary increments,non-completion,efficiency bar examination,bar examination,salary increments",
+        "Year": "2018",
+        "Size": "241.4",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Guidelines to be followed when the issues related to Salaries-1664962102.33583.txt": {
+        "wordcount": 1167,
+        "Category": "guidelines,salary",
+        "Year": "2015",
+        "Size": "115.1",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Entitlement of Duty Leave for the Public Officers to Appear for the Examinations-1664961649.2099302.txt": {
+        "wordcount": 246,
+        "Category": "entitlement of duty leave,public officers,examination",
+        "Year": "3134",
+        "Size": "28.4",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1664960455.6064787.txt": {
+        "wordcount": 219,
+        "Category": "exemption of the officers,efficiency bar examination",
+        "Year": "2022",
+        "Size": "209.3",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Granting period of concession to the officers absorbed into Class II Grade II-1664961160.128082.txt": {
+        "wordcount": 853,
+        "Category": "period of concession,officers absorbed,class II grade II",
+        "Year": "2019",
+        "Size": "228.3",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Implementing the instructions in the Public Administration Circulars-1664961422.0507877.txt": {
+        "wordcount": 310,
+        "Category": "implementations,instructions in the public administration",
+        "Year": null,
+        "Size": "186.8",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Indicating the Number of the NIC in the Loan Application Forms-1664960617.5957158.txt": {
+        "wordcount": 121,
+        "Category": "number of the NIC,loan application form",
+        "Year": "2012",
+        "Size": "21.9",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Recovery of Installments of Lady Lochore Loan Fund-1664960544.7749212.txt": {
+        "wordcount": 154,
+        "Category": "recovery of installments,lady lochore loan fund",
+        "Year": "2015",
+        "Size": "27.3",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Supply of Fuel for Official Vehicles and Payment of OT and Combined Allowances to Drivers-1664960664.6196892.txt": {
+        "wordcount": 205,
+        "Category": "supply of fuel,official vehicles,payment of OT,combined allowances,drivers",
+        "Year": "2008",
+        "Size": "58.9",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Saving Electricity and Fuel-1664960271.4813514.txt": {
+        "wordcount": 1329,
+        "Category": "saving,electricity,fuel",
+        "Year": "2022",
+        "Size": "379.0",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Attire of Public Officers-1664960127.373502.txt": {
+        "wordcount": 302,
+        "Category": "attire of public officers,public officers",
+        "Year": "2022",
+        "Size": "224.0",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Classification of Staff Grade Officers and Non-Staff Grade Officers-1664962824.5934997.txt": {
+        "wordcount": 270,
+        "Category": "classifications,staff grade officers,non-staff grade officers",
+        "Year": "2021",
+        "Size": "358.1",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Declaration of National Drug Prevention Week-1664961890.8805494.txt": {
+        "wordcount": 539,
+        "Category": "declarations,national drug prevention week",
+        "Year": "2018",
+        "Size": "230.3",
+        "lastmodtime": "Fri Oct 14 19:54:22 2022"
+    },
+    "ScrapedPDFs/Temporary attachment of officers in Public Service into personal staff of the Hon. Members of Parliament-1665853040.1473968.txt": {
+        "wordcount": 2682,
+        "Category": "temporary attachments,officers,public,members of parliament",
+        "Year": "2022",
+        "Size": "1450.9",
+        "lastmodtime": "Sat Oct 15 22:27:31 2022"
+    },
+    "ScrapedPDFs/Guidance on Estimation, Collection, Monitoring and Reporting of State Revenue - State Buildings and Rentals - 20.02.01.01-1665852928.6326675.txt": {
+        "wordcount": 397,
+        "Category": "guidance,state revenue",
+        "Year": "2022",
+        "Size": "207.5",
+        "lastmodtime": "Sat Oct 15 22:25:30 2022"
+    },
+    "ScrapedPDFs/ANNUAL TRANSFERS OF OFFICERS IN SUPRA CLASS OF MANAGEMENT SERVICES OFFICER - 2023-1665852865.9542973.txt": {
+        "wordcount": 4100,
+        "Category": "annual transfer,officers",
+        "Year": "2022",
+        "Size": "420.0",
+        "lastmodtime": "Sat Oct 15 22:24:33 2022"
     }
 }

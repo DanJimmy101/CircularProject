@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
-    <title>Search | Curriculars Database</title>
+    <title>Search | {{ search }}</title>
 
     <style>
         .navbar {
@@ -54,7 +54,7 @@
                     <div class="px-4 pt-0 my-5 text-start">
                         <div class="row mb-4">
                             <div class="col-md-9">
-                                <form id="searchKeywords" class=" justify-content-sm-center" action="/search" method="get">
+                                <form id="searchKeywords" class=" justify-content-sm-center mb-3" action="/search" method="get">
                                     <div class="form-floating d-flex">
                                         <input class="form-control m-1" id="search_keyword" type="text" value="{{ search }}" aria-label="Search" name="search_keyword" required>
                                         <label class="align-bottom" for="search_keyword">Search</label>
@@ -64,13 +64,16 @@
                                         </div>
                                     </div>
                                     
-                                    <input type="text" class="m-1 d-flex" id="tags" pattern="[a-zA-Z0-9 @#,]+" name="categorytexts" placeholder='write some tags' value="{{ tags }}"/>
+                                    <input type="text" class="m-1 d-flex" id="tags" pattern="[a-zA-Z0-9 @#,-]+" name="categorytexts" placeholder='write some tags' value="{{ tags }}"/>
                                     <input class="visually-hidden" type="number" name="page_number" id="page_id" min="1" value="{{ page_num }}">
                                     <input class="visually-hidden" type="number" name="max_per_one_page" id="page_result_count" value="{{ max_per_one_page }}">
-                                    <button type="submit" class="btn btn-outline-primary btn-sm px-4 mt-2">Search</button>
+                                    <button type="submit" class="btn btn-outline-primary btn-sm px-4 mt-2 ms-1">Search</button>
                                 </form>
+                                <a href="/advancesearch">Advance search</a>
                             </div>
-
+                            <div class="text-end">
+                                <a href="/viewhistory">Recently opened documents</a>
+                            </div>
                         </div>
                         <hr>
                         <div class="row mb-3">
@@ -118,7 +121,11 @@
                                     </div>
                                 </div>
                                 <div class="container mt-4">
-                                    <p id="recomendationArea"></p>
+                                    <div id="recomendationArea">
+                                        <div class="spinner-border" role="status">
+                                            <span class="visually-hidden">Loading...</span>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -256,8 +263,6 @@
             var maxVal = parseInt(document.getElementById("max_price").value);
             var minVal = parseInt(document.getElementById("min_price").value);
             const recArea = document.getElementById("recomendationArea");
-            recArea.innerHTML = "<p>Loading data....</p>";
-            console.log("min is: " + minVal + " & max is: " + maxVal);
 
             if (minVal == ""){
                 minVal = 0;
@@ -265,15 +270,12 @@
             if (maxVal == ""){
                 maxVal = 0;
             }
-            console.log(minVal);
-            console.log(maxVal);
             let obj = {
                 "user_search_history": search_history.toString(),
                 "user_click_history": clickHist, 
                 "user_min_value": minVal/100,
                 "user_max_value": maxVal/100
             }
-            console.log(obj);
             // send data to the backend route
             fetch("/recomendations", {
                 method: "POST",
@@ -284,12 +286,9 @@
                 }
             }).then((response) => response.json())
                 .then((data) => {
-                    console.log("incoming data")
-                    console.log(data)
                     if(data){
                         const serverSuggestions = data["suggestions"];
                         if (serverSuggestions.length != 0){
-                            recArea.innerHTML = "<p>Loading data....</p>";
                             recomendationHTML = ""
                             for (d = 0; d < serverSuggestions.length; d++) {
                                 recomendationHTML += '<a href="../pdf/' + serverSuggestions[d].link + '" data-link-id="' + serverSuggestions[d].id + '" data-link="' + serverSuggestions[d].link + '" target="_blank">' + serverSuggestions[d].name + '</a>&nbsp;<span class="badge text-secondary border border-secondary">' + serverSuggestions[d].Year + '&nbsp;|&nbsp;' + serverSuggestions[d].Size + 'KB</span>' + '</span><p class="mb-5">' + serverSuggestions[d].description + '</p>';

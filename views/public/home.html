@@ -64,11 +64,11 @@
 
             <div class="container my-5" id="glass">
                 <div class="row p-1 pb-0 pe-lg-0 pt-lg-1 align-items-center rounded-3 border shadow-lg">
-                    <div class="px-4 pt-0 my-5 text-center border-bottom">
+                    <div class="px-4 pt-0 my-1 text-center border-bottom">
                         <h1 class="display-4 fw-bold">Welcome to curriculars database</h1>
                         <div class="col-lg-6 mx-auto">
                             <p class="lead mb-4">Please enter the keywords</p>
-                            <div class=" gap-2 justify-content-sm-center mb-5">
+                            <div class=" gap-2 justify-content-sm-center mb-2">
                                 <form class="m-1 justify-content-sm-center" action="/search" method="get">
                                     <input class="form-control m-1" type="text" placeholder="Search" aria-label="Search" name="search_keyword" required>
                                     <!-- <div class="form-check text-nowrap me-2">
@@ -76,14 +76,17 @@
                                         <label class="m-1 align-bottom mt-2" for="matchCheck">Match word</label>
                                     </div> -->
                                     <input class="form-control m-1" type="number" min="2000" max="2022" placeholder="Enter year" aria-label="Search Year" name="search_year" step="1" value="">
-                                    <input type="text" class="form-control ms-1 text-start" id="tags" pattern="[a-zA-Z0-9 @#,]+" name="categorytexts" placeholder='write some tags'/>
+                                    <input type="text" class="form-control ms-1 text-start" id="tags" pattern="[a-zA-Z0-9 @#,-]+" name="categorytexts" placeholder='write some tags'/>
                                     
                                     <input class="visually-hidden" type="number" name="page_number" id="page_id" min="1" value="1">                                 
-                                    <button type="submit" class="btn btn-outline-primary lead m-1">Search</button>
+                                    <button type="submit" class="btn btn-outline-primary lead m-2">Search</button>
                                 </form>
-                                <a href="/advancesearch">Advance search</a>
+                                <a href="/advancesearch" class="m-2">Advance search</a>
                             </div>
                         </div>
+                    </div>
+                    <div class="text-end m-1">
+                        <a href="/viewhistory">Recently opened documents</a>
                     </div>
                 </div>
             </div>
