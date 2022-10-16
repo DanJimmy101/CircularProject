@@ -598,7 +598,8 @@ class Search:
             with open(x, 'r',encoding='utf-8') as f:
                 # print(x)
                 xp = f.readlines()
-                if not exclude and include or phrase:
+                # if not exclude and include or phrase:
+                if len(linenum) > 0:
                     for i in linenum[x]:
                         linecounter += 1
                         print_line = ''
@@ -619,9 +620,9 @@ class Search:
                         # if found:
                         # print("Line number "+ str(i) +" :"+print_line)
                     # print(lines)
-                    lstSearchResult.append(searchresult(id, filename, lines, path, self.doclist[x]['Year'], self.doclist[x]['Size']))
-                else:                    
-                    lstSearchResult.append(searchresult(id, filename, '', path, self.doclist[x]['Year'], self.doclist[x]['Size']))
+                lstSearchResult.append(searchresult(id, filename, lines, path, self.doclist[x]['Year'], self.doclist[x]['Size']))
+                # else:                    
+                #     lstSearchResult.append(searchresult(id, filename, '', path, self.doclist[x]['Year'], self.doclist[x]['Size']))
                 
             # print("Score : ", scoring[x])
             # print('----------------------------------x--------------------------------------------------------------------------------------------------------------------------------------------------------------------')
