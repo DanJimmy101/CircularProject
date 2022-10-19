@@ -19,7 +19,6 @@ from utility import docfile, wordfile, wordlocfile
 from runner import Search
 from tfidfRecommender import getRecommendations
 from tinyDB import tiny_db_search_data
-from doclistRead import doclistData
 
 class NotAuthenticatedException(Exception):
     pass
@@ -367,13 +366,18 @@ def recomended_things(request: Response, user_data: delete_user_history):
     print("pdfpdfpdfpdfpdfpdfpdfpdfpdfpdfpdf")
     clickedDocs = user_data.user_click_history.split(',')
     data_to_check_history = []
-    for doc in clickedDocs:
-        history_to_user = {}
-        docPath = str(os.path.join("ScrapedPDFs",(doc.replace(".pdf",".txt"))))
-        history_to_user["name"] = str(doc.rsplit("-",1)[0])
-        history_to_user["link"] = str("/pdf/" + doc)
-        history_to_user["year"] = doclistData[docPath]["Year"]
-        history_to_user["size"] = doclistData[docPath]["Size"]
-        data_to_check_history.append(history_to_user)
-    # close file
-    return {"history": data_to_check_history}
+    try:
+        with open(docfile, 'r', encoding='utf-8') as json_data:
+            doclistData = json.load(json_data)
+            for doc in clickedDocs:
+                history_to_user = {}
+                docPath = str(os.path.join("ScrapedPDFs",(doc.replace(".pdf",".txt"))))
+                history_to_user["name"] = str(doc.rsplit("-",1)[0])
+                history_to_user["link"] = str("/pdf/" + doc)
+                history_to_user["year"] = doclistData[docPath]["Year"]
+                history_to_user["size"] = doclistData[docPath]["Size"]
+                data_to_check_history.append(history_to_user)
+            # close file
+            return {"history": data_to_check_history}
+    except:
+        return {"history": data_to_check_history}
