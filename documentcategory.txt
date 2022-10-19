@@ -25,14 +25,12 @@ Supply of Fuel for Official Vehicles and Payment of OT and Combined Allowances t
 Prevention of Dengue Epidemic-1664960688.3315833.txt	"prevention,dengue,epidemic"	21.5
 Management of Public Finance-1664960702.904504.txt	"management,public finance"	176.4
 Conversion of Salary at Promotion-1664960721.8972507.txt	"conversion of salary,promotion"	36.2
-Payment of Compensation to Public Officers-1664960769.5783393.txt	"payment of compensation,public officers"	37.2
 Granting Period of Concession for Officers-1664960793.0874386.txt	"granting period of concession,officers"	232.1
 Declaring a Special Holiday for Government Offices-1664960815.2218037.txt	"declarations,special holidays,government offices"	81.4
 Amending Service Minutes Schemes of Recruitment and Promotions in Public Service-1664960873.625949.txt	"amending service minutes,schemes of recruitment,promotions in public service"	35.6
 Granting a monthly allowance of Rs 5000 to Public Officers and Pensioners-1664960902.0280535.txt	"granting monthly allowance,public officers,pensioners"	385.3
 Implementation of the Official Languages Policy-1664960923.0106533.txt	"implementations,official language policy"	275.8
 Providing Relief with regard to Reduction of a Salary Increment-1664960951.8353899.txt	"providing relief,reduction of salary increments"	196.1
-Providing Copies of Circulars to Trade Unions-1664961010.3391879.txt	"providing copies of circulars,trade union"	40.0
 The Constitution and the Provisions regarding the use of Sinhala Tamil English Languages-1664961059.7117813.txt	"the constitution and the provisions,use of Sinhala Tamil English languages"	36.2
 Preparation of Transfer Schemes for all Services in Public Sector-1664961084.1085143.txt	"transfer schemes,all services,public sector"	33.1
 Promotion to Grade II of Public Management Assistants’ Service-1664961117.7209966.txt	"promotions,grade II,public management assistants service"	207.6
@@ -44,7 +42,6 @@ Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Pos
 Granting leave to participate as a Referee in an international competition-1664961329.2224414.txt	"granting leaves,particitipate as a refreee in an international competition"	166.5
 Providing Employment for the Disabled-1664961357.626822.txt	"providing employment,disabled,differently abled"	19.5
 Entrusting of Official Responsibilities and Handing Over of Documents in Proper Manner-1664961393.3782997.txt	"entrusting of official responsibilities,handing over of documents"	201.7
-Implementing the instructions in the Public Administration Circulars-1664961422.0507877.txt	"implementations,instructions in the public administration"	186.8
 Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1664961471.484886.txt	"computer test,efficiency bar examination,officers"	152.4
 Extending the benefits under Agrahara Insurance Scheme-1664961500.2966003.txt	"extending the benefits,agrahara insurance scheme"	66.5
 Attendance of the Officers in the Public Service on 20-05-2022-1664961525.173773.txt	"attendance of officers,public service"	80.2
@@ -58,13 +55,11 @@ Implementation of the Official Languages Policy 2017-1664961798.7788796.txt	"imp
 Payment for Disciplinary Inquiries-1664961822.7489548.txt	"payments,disciplinary inquiries"	13.8
 Reimbursement of Training Allowance to Officers-1664961864.883352.txt	"reimbursements,training allowance,officers"	82.8
 Declaration of National Drug Prevention Week-1664961890.8805494.txt	"declarations,national drug prevention week"	230.3
-Giving Priority to Elders Identity Cards-1664961905.9153674.txt	"elders ID"	68.2
 Determining the Salary that should be made Applicable when appointing an Ex-serviceman-1664961922.8350275.txt	"salary,ex-serviceman"	253.1
 Re-registration of Old Members of Widows Widowers Orphans Pension-1664961963.3778079.txt	"re-registration,old members,widows widowers orphans pension"	448.3
 Annual Transfers of Officers in Combined Services - 2022-1664961984.836818.txt	"annual transfer,officers,combined services"	69.6
 Granting Period of Concession for Officers absorbed into Class II-1664962008.8234174.txt	"period of concession,officers absorbed into class II"	252.7
 Implementation of the Minute of Public Management Assistants’ Service-1664962040.7488291.txt	"implementations,minutes,public management assistants service"	181.4
-ANNUAL TRANSFERS OF OFFICERS IN SUPRA CLASS OF MANAGEMENT SERVICES OFFICER - 2023-1664962079.2114897.txt	"annual transfer,officers,supra class,management service"	420.0
 Guidelines to be followed when the issues related to Salaries-1664962102.33583.txt	"guidelines,salary"	115.1
 Granting Permanent Appointments as per budget proposals 2015-1664962131.2641041.txt	"permanent appointments,budget proposals"	15.8
 Granting of Extension of Service Beyond 55 Years of Age to Public Officers-1664962156.755328.txt	"extension of serice,55 yers,public officers"	5.0

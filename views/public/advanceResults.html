@@ -99,6 +99,9 @@
                                     </p>
                                 </div>
                                 <hr class="mt-2 mb-2">
+                                {% if not all_data_length %}
+                                    <p class="lead">No results right now.</p>
+                                {% endif %}
                                 <!-- <p class="lead mb-1"> -->
                                 {% for data in result %}
                                     <a class="lead mb-4" href="pdf/{{ data['link'] }}" data-link-id="{{ data['id'] }}" target="_blank">{{ data['displayId'] }}</a>
@@ -136,23 +139,25 @@
                             </div>
                         </div>
                         <div class="row">
-                            <nav aria-label="Page navigation">
-                                <ul class="pagination pagination-md justify-content-center">
-                                  <li class="page-item {%+ if page_num == 1 %}disabled{% endif %}">
-                                    <a id="go_back" class="page-link" href="#" aria-label="Previous" onclick="goBack()">
-                                        <span aria-hidden="true">&laquo;</span>
-                                    </a>
-                                  </li>
-                                  {% for n in range(0,((all_data_length / max_per_one_page)|round(0, 'ceil')|int)) %}
-                                    <li class="page-item {%+ if n+1 == page_num %}active{% endif %}"><a data-page-number="{{ n+1 }}" class="page-link" href="#" onclick="pageNavigation(this)">{{ n+1 }}</a></li>
-                                  {% endfor %}
-                                  <li class="page-item {%+ if page_num == ((all_data_length / max_per_one_page)|round(0, 'ceil')|int) %}disabled{% endif %}">
-                                    <a id="go_next" class="page-link" href="#" aria-label="Next" onclick="goNext()">
-                                        <span aria-hidden="true">&raquo;</span>
-                                    </a>
-                                  </li>
-                                </ul>
-                            </nav>
+                            {% if all_data_length %}
+                                <nav aria-label="Page navigation">
+                                    <ul class="pagination pagination-md justify-content-center">
+                                    <li class="page-item {%+ if page_num == 1 %}disabled{% endif %}">
+                                        <a id="go_back" class="page-link" href="#" aria-label="Previous" onclick="goBack()">
+                                            <span aria-hidden="true">&laquo;</span>
+                                        </a>
+                                    </li>
+                                    {% for n in range(0,((all_data_length / max_per_one_page)|round(0, 'ceil')|int)) %}
+                                        <li class="page-item {%+ if n+1 == page_num %}active{% endif %}"><a data-page-number="{{ n+1 }}" class="page-link" href="#" onclick="pageNavigation(this)">{{ n+1 }}</a></li>
+                                    {% endfor %}
+                                    <li class="page-item {%+ if page_num == ((all_data_length / max_per_one_page)|round(0, 'ceil')|int) %}disabled{% endif %}">
+                                        <a id="go_next" class="page-link" href="#" aria-label="Next" onclick="goNext()">
+                                            <span aria-hidden="true">&raquo;</span>
+                                        </a>
+                                    </li>
+                                    </ul>
+                                </nav>
+                            {% endif %}
                         </div>
                     </div>
                 </div>
