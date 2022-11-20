@@ -1,66 +1,66 @@
 {
     "dirname": "ScrapedPDFs/",
-    "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": {
-        "wordcount": 110,
-        "Category": "efficiency bar examination,officers,class III,public management,assistants service",
-        "Year": "2014",
-        "Size": "224.7",
-        "lastmodtime": "Wed Oct 19 15:17:44 2022"
+    "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": {
+        "wordcount": 195,
+        "Category": "payment of claims,agrahara insurance,insurance scheme,public officers,covid-19,pandemic,covid-19 positive officers",
+        "Year": "2021",
+        "Size": "28.8",
+        "lastmodtime": "Sun Nov 20 17:39:19 2022"
     },
-    "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": {
-        "wordcount": 264,
-        "Category": "deferment,salary increments,non-completion,efficiency bar examination,officers",
-        "Year": "2018",
-        "Size": "241.4",
-        "lastmodtime": "Wed Oct 19 15:16:40 2022"
-    },
-    "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": {
-        "wordcount": 235,
-        "Category": "deferment,salary increments,non-completion,efficiency bar examination,officers",
-        "Year": "2019",
-        "Size": "190.0",
-        "lastmodtime": "Wed Oct 19 15:17:03 2022"
-    },
-    "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": {
+    "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": {
         "wordcount": 224,
         "Category": "computer test,efficiency bar examination,officers",
         "Year": "2017",
         "Size": "152.4",
-        "lastmodtime": "Wed Oct 19 15:14:31 2022"
+        "lastmodtime": "Sun Nov 20 17:36:22 2022"
     },
-    "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": {
-        "wordcount": 219,
-        "Category": "exemption of officers,efficiency bar examination,course related",
-        "Year": "2022",
-        "Size": "209.3",
-        "lastmodtime": "Wed Oct 19 15:18:29 2022"
+    "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": {
+        "wordcount": 264,
+        "Category": "deferment,salary increments,non-completion,efficiency bar examination,officers",
+        "Year": "2018",
+        "Size": "241.4",
+        "lastmodtime": "Sun Nov 20 17:36:44 2022"
     },
-    "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": {
-        "wordcount": 178,
-        "Category": "computer test,efficiency bar examination,officers",
-        "Year": "2017",
-        "Size": "217.5",
-        "lastmodtime": "Wed Oct 19 15:13:55 2022"
+    "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": {
+        "wordcount": 110,
+        "Category": "efficiency bar examination,officers,class III,public management,assistants service",
+        "Year": "2014",
+        "Size": "224.7",
+        "lastmodtime": "Sun Nov 20 17:37:41 2022"
     },
-    "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": {
-        "wordcount": 195,
-        "Category": "payment of claims,agrahara insurance, insurance scheme,public officers,covid-19,pandemic,covid-19 positive officers",
-        "Year": "2021",
-        "Size": "28.8",
-        "lastmodtime": "Wed Oct 19 15:19:53 2022"
-    },
-    "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": {
-        "wordcount": 195,
-        "Category": "agrahara insurance,insurance schemes,public officers",
-        "Year": "2003",
-        "Size": "12.7",
-        "lastmodtime": "Wed Oct 19 15:18:55 2022"
-    },
-    "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": {
+    "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": {
         "wordcount": 161,
         "Category": "benefits,extension of benefits,agrahara insurance,insurance schemes",
         "Year": "2005",
         "Size": "66.5",
-        "lastmodtime": "Wed Oct 19 15:19:30 2022"
+        "lastmodtime": "Sun Nov 20 17:39:02 2022"
+    },
+    "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": {
+        "wordcount": 219,
+        "Category": "exemption of officers,efficiency bar examination,course related",
+        "Year": "2022",
+        "Size": "209.3",
+        "lastmodtime": "Sun Nov 20 17:38:16 2022"
+    },
+    "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": {
+        "wordcount": 178,
+        "Category": "computer test,efficiency bar examination,officers",
+        "Year": "2017",
+        "Size": "217.5",
+        "lastmodtime": "Sun Nov 20 17:35:56 2022"
+    },
+    "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": {
+        "wordcount": 195,
+        "Category": "agrahara insurance,insurance schemes,public officers",
+        "Year": "2003",
+        "Size": "12.7",
+        "lastmodtime": "Sun Nov 20 17:38:39 2022"
+    },
+    "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": {
+        "wordcount": 235,
+        "Category": "deferment,salary increments,non-completion,efficiency bar examination,officers",
+        "Year": "2019",
+        "Size": "190.0",
+        "lastmodtime": "Sun Nov 20 17:37:23 2022"
     }
 }

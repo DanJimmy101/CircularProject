@@ -1,1542 +1,1542 @@
 {
-    "combin": {
-        "predoc": 6,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 3,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 2,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 3,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 4
-    },
-    "servic": {
-        "predoc": 8,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 4,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 8,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 8,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 10,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 11,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 8,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 2,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 2
-    },
-    "circular": {
-        "predoc": 9,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 3,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 3,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 4
-    },
-    "01": {
-        "predoc": 7,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 5,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 2,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 4,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 2,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 2
-    },
-    "2014": {
-        "predoc": 1,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 3
-    },
-    "secretari": {
-        "predoc": 9,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 3,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 2,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 4,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 4,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 6
-    },
-    "ministri": {
-        "predoc": 9,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 2,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 2,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 2,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 5,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 4,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 4
-    },
-    "head": {
-        "predoc": 9,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 2,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "depart": {
-        "predoc": 9,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "district": {
-        "predoc": 2,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "division": {
-        "predoc": 2,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "effici": {
-        "predoc": 6,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 6,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 5,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 3,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 3,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 2
-    },
-    "bar": {
-        "predoc": 6,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 6,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 5,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 3,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 3,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 2
-    },
-    "examin": {
-        "predoc": 6,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 6,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 4,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 2,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 2
-    },
-    "offic": {
-        "predoc": 9,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 6,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 4,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 4,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 5,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 3,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 4,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 2,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "class": {
-        "predoc": 1,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1
-    },
-    "iii": {
-        "predoc": 3,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 3,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 2
-    },
     "public": {
         "predoc": 9,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 2,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 6,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 5,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 5,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 4,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 6,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 4,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 5
-    },
-    "manag": {
-        "predoc": 7,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 5,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 4,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 5,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 4,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 2
-    },
-    "assist": {
-        "predoc": 5,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 4,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 3,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 4,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 3
-    },
-    "pa": {
-        "predoc": 6,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "cs": {
-        "predoc": 6,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "6": {
-        "predoc": 3,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "4": {
-        "predoc": 4,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "e": {
-        "predoc": 1,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1
-    },
-    "b": {
-        "predoc": 1,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 6,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 5,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 6,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 2,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 5,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 4,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 4,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 5
     },
     "administr": {
         "predoc": 8,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 3,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 2
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 3,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
     },
-    "home": {
-        "predoc": 1,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1
-    },
-    "affair": {
-        "predoc": 1,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1
-    },
-    "independ": {
+    "circular": {
         "predoc": 9,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "squar": {
-        "predoc": 9,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "colombo": {
-        "predoc": 9,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "07": {
-        "predoc": 9,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 2,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "25": {
-        "predoc": 2,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1
-    },
-    "04": {
-        "predoc": 7,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 4,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 2,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "kind": {
-        "predoc": 1,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1
-    },
-    "attent": {
-        "predoc": 3,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "drawn": {
-        "predoc": 3,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "kindli": {
-        "predoc": 3,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "inform": {
-        "predoc": 6,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 3
-    },
-    "date": {
-        "predoc": 7,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 5,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 3,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 3,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 3,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 2,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "appoint": {
-        "predoc": 4,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 3,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "mention": {
-        "predoc": 3,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "2007": {
-        "predoc": 1,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 2
-    },
-    "first": {
-        "predoc": 1,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1
-    },
-    "02": {
-        "predoc": 9,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 3,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 3,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 2,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "paragraph": {
-        "predoc": 1,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1
-    },
-    "tabl": {
-        "predoc": 1,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1
-    },
-    "said": {
-        "predoc": 7,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 3,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 2,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 3,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "revis": {
-        "predoc": 1,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1
-    },
-    "sgd": {
-        "predoc": 8,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "k": {
-        "predoc": 5,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "v": {
-        "predoc": 5,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "p": {
-        "predoc": 5,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "j": {
-        "predoc": 7,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 2,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 2
-    },
-    "gamag": {
-        "predoc": 5,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "director": {
-        "predoc": 6,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 2
-    },
-    "gener": {
-        "predoc": 6,
-        "ScrapedPDFs/Efficiency Bar Examination of officers in Class III of Public Management Assistants Service-1666172863.6332524.txt": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 2
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 3,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 4,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 3,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
     },
     "letter": {
         "predoc": 7,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 2,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 3,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 3,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 2
-    },
-    "2018": {
-        "predoc": 3,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 5,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "polici": {
-        "predoc": 5,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "common": {
-        "predoc": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1
-    },
-    "law": {
-        "predoc": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1
-    },
-    "order": {
-        "predoc": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1
-    },
-    "28": {
-        "predoc": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1
-    },
-    "08": {
-        "predoc": 2,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "defer": {
-        "predoc": 2,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 2
-    },
-    "salari": {
-        "predoc": 3,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 4,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 3,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "increment": {
-        "predoc": 3,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 4,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 3,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "non": {
-        "predoc": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1
-    },
-    "complet": {
-        "predoc": 3,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 4,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 3,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 2
-    },
-    "grade": {
-        "predoc": 5,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 3,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 5,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 3,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 5,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 2
-    },
-    "per": {
-        "predoc": 6,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1
-    },
-    "minut": {
-        "predoc": 5,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 3,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 2
-    },
-    "effect": {
-        "predoc": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1
-    },
-    "2013": {
-        "predoc": 4,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "pass": {
-        "predoc": 4,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 4,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "prescrib": {
-        "predoc": 4,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 2
-    },
-    "within": {
-        "predoc": 3,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "05": {
-        "predoc": 3,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 3,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 4,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 3
-    },
-    "year": {
-        "predoc": 5,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 4,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 2,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 2,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 2,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "post": {
-        "predoc": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1
-    },
-    "accordingli": {
-        "predoc": 3,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1
-    },
-    "provis": {
-        "predoc": 5,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 2
-    },
-    "new": {
-        "predoc": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1
-    },
-    "period": {
-        "predoc": 3,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 3,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 2
-    },
-    "promot": {
-        "predoc": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1
-    },
-    "end": {
-        "predoc": 2,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1
-    },
-    "commiss": {
-        "predoc": 4,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 2
-    },
-    "psc": {
-        "predoc": 4,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "app": {
-        "predoc": 3,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "62": {
-        "predoc": 3,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "23": {
-        "predoc": 3,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "take": {
-        "predoc": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1
-    },
-    "follow": {
-        "predoc": 4,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "action": {
-        "predoc": 3,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 3
-    },
-    "regard": {
-        "predoc": 3,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "ii": {
-        "predoc": 3,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1
-    },
-    "suspend": {
-        "predoc": 3,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "5th": {
-        "predoc": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1
-    },
-    "grant": {
-        "predoc": 4,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "includ": {
-        "predoc": 2,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1
-    },
-    "stop": {
-        "predoc": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1
-    },
-    "10": {
-        "predoc": 3,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "consecut": {
-        "predoc": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1
-    },
-    "sit": {
-        "predoc": 1,
-        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1666172799.0288794.txt": 1
-    },
-    "2019": {
-        "predoc": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 3,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "number": {
-        "predoc": 3,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "disast": {
-        "predoc": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1
-    },
-    "17": {
-        "predoc": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1
-    },
-    "publish": {
-        "predoc": 4,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 2,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "gazett": {
-        "predoc": 4,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "extraordinari": {
-        "predoc": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "1840": {
-        "predoc": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "34": {
-        "predoc": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "11": {
-        "predoc": 4,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 2,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "12": {
-        "predoc": 5,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 2,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 2
-    },
-    "five": {
-        "predoc": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 2,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 2
-    },
-    "howev": {
-        "predoc": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "concess": {
-        "predoc": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1
-    },
-    "19": {
-        "predoc": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 3
-    },
-    "03": {
-        "predoc": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
-    },
-    "whose": {
-        "predoc": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1
-    },
-    "due": {
-        "predoc": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "abl": {
-        "predoc": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "even": {
-        "predoc": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1
-    },
-    "though": {
-        "predoc": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1
-    },
-    "alreadi": {
-        "predoc": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "concessionari": {
-        "predoc": 2,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 2,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 3,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 3,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 2,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 2
+    },
+    "02": {
+        "predoc": 9,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 3,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 3,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 2
     },
     "2021": {
         "predoc": 4,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 2,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 2,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 2
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 2,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 2,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
     },
-    "train": {
-        "predoc": 1,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1
-    },
-    "cours": {
+    "number": {
         "predoc": 3,
-        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1666172822.5231614.txt": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "2017": {
-        "predoc": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 3,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 4
-    },
-    "\u0dc0": {
-        "predoc": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "\u0dba\u0dc0": {
-        "predoc": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "\u0dae": {
-        "predoc": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "\u0dc3": {
-        "predoc": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "\u0dc1": {
-        "predoc": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "\u0db0": {
-        "predoc": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "\u0db1": {
-        "predoc": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "comput": {
-        "predoc": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 4,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 3
-    },
-    "test": {
-        "predoc": 3,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 4,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 2,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 2
-    },
-    "relev": {
-        "predoc": 4,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 2,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "in\u0dc3": {
-        "predoc": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
     },
     "est": {
         "predoc": 3,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
     },
-    "5": {
-        "predoc": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 3,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "2": {
+    "6": {
         "predoc": 3,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
     },
-    "2012": {
-        "predoc": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1
-    },
-    "recruit": {
-        "predoc": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1
-    },
-    "2004": {
-        "predoc": 3,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 2
-    },
-    "unabl": {
-        "predoc": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1
-    },
-    "exempt": {
-        "predoc": 3,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 2,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "previou": {
-        "predoc": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "accord": {
-        "predoc": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1
-    },
-    "1": {
-        "predoc": 3,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
-    },
-    "section": {
-        "predoc": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1
-    },
-    "indic": {
-        "predoc": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1
-    },
-    "para": {
-        "predoc": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "extra": {
-        "predoc": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "ordinari": {
-        "predoc": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "1372": {
-        "predoc": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "24": {
-        "predoc": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1666172670.1330814.txt": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "2022": {
-        "predoc": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 3
-    },
-    "\u0db4": {
-        "predoc": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "\u0daf": {
-        "predoc": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "provinci": {
-        "predoc": 4,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 2,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 2
-    },
-    "council": {
-        "predoc": 4,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 2,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 2
-    },
-    "local": {
-        "predoc": 3,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 2,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 2
-    },
-    "govern": {
-        "predoc": 3,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 2,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 2
-    },
-    "26": {
-        "predoc": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "refer": {
-        "predoc": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "relat": {
-        "predoc": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "requir": {
-        "predoc": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "decid": {
-        "predoc": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "extend": {
-        "predoc": 2,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "depriv": {
-        "predoc": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "31": {
-        "predoc": 2,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 2
-    },
-    "alokabandara": {
-        "predoc": 1,
-        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1666172908.0028272.txt": 1
-    },
-    "22": {
-        "predoc": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1
-    },
-    "herebi": {
-        "predoc": 2,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 2
-    },
-    "request": {
-        "predoc": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "made": {
-        "predoc": 3,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 2,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
-    },
-    "along": {
-        "predoc": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
-    },
-    "certif": {
-        "predoc": 1,
-        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1666172634.5892184.txt": 1
+    "04": {
+        "predoc": 7,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 4,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 2,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
     },
     "1010": {
         "predoc": 2,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
+    },
+    "ministri": {
+        "predoc": 9,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 5,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 2,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 2,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 2,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 4,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 2,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 4,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 2
+    },
+    "servic": {
+        "predoc": 8,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 10,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 8,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 4,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 11,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 8,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 8
+    },
+    "provinci": {
+        "predoc": 4,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 2,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "council": {
+        "predoc": 4,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 2,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "local": {
+        "predoc": 3,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 2,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1
+    },
+    "govern": {
+        "predoc": 3,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 2,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1
+    },
+    "independ": {
+        "predoc": 9,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "squar": {
+        "predoc": 9,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "colombo": {
+        "predoc": 9,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "07": {
+        "predoc": 9,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 2,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 2,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "22": {
+        "predoc": 2,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
+    },
+    "10": {
+        "predoc": 3,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
+    },
+    "secretari": {
+        "predoc": 9,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 4,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 2,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 3,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 6,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 4,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 2
     },
     "state": {
         "predoc": 2,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
     },
     "chief": {
         "predoc": 3,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
     },
     "provinc": {
         "predoc": 2,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
+    },
+    "head": {
+        "predoc": 9,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "depart": {
+        "predoc": 9,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
     },
     "payment": {
         "predoc": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 2
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 2
     },
     "claim": {
         "predoc": 2,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 4,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 3
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 4,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 3
     },
     "agrahara": {
         "predoc": 3,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 3,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 2,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 3,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 2
     },
     "insur": {
         "predoc": 3,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 4,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 7,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 4,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 7
     },
     "scheme": {
         "predoc": 3,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 3,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 2,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 3,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 2
+    },
+    "offic": {
+        "predoc": 9,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 4,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 4,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 6,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 5,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 3,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 2,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 4
+    },
+    "test": {
+        "predoc": 3,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 4,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 2
     },
     "posit": {
         "predoc": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 2
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 2
     },
     "covid": {
         "predoc": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 3
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 3
+    },
+    "19": {
+        "predoc": 2,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 3,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
     },
     "inquiri": {
         "predoc": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 2
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 2
+    },
+    "made": {
+        "predoc": 3,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 2,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
     },
     "institut": {
         "predoc": 2,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
     },
     "well": {
         "predoc": 2,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
     },
     "benefit": {
         "predoc": 2,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
     },
     "entitl": {
         "predoc": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1
+    },
+    "per": {
+        "predoc": 6,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
     },
     "nation": {
         "predoc": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 2
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 2
     },
     "trust": {
         "predoc": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 2
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 2
     },
     "fund": {
         "predoc": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 2
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 2
+    },
+    "regard": {
+        "predoc": 3,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
+    },
+    "inform": {
+        "predoc": 6,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 3
+    },
+    "action": {
+        "predoc": 3,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 3
     },
     "taken": {
         "predoc": 2,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
     },
     "pay": {
         "predoc": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1
     },
     "receiv": {
         "predoc": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 2
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 2
     },
     "treatment": {
         "predoc": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 2
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 2
     },
     "consid": {
         "predoc": 2,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
     },
     "way": {
         "predoc": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1
+    },
+    "accordingli": {
+        "predoc": 3,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1
+    },
+    "provis": {
+        "predoc": 5,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
+    },
+    "includ": {
+        "predoc": 2,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1
     },
     "paid": {
         "predoc": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1
     },
     "methodolog": {
         "predoc": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1
     },
     "document": {
         "predoc": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1
     },
     "submit": {
         "predoc": 2,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
     },
     "purpos": {
         "predoc": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1
     },
     "obtain": {
         "predoc": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1
     },
     "offici": {
         "predoc": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1
     },
     "websit": {
         "predoc": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1
     },
     "www": {
         "predoc": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1
     },
     "nitf": {
         "predoc": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1
     },
     "lk": {
         "predoc": 1,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1
+    },
+    "sgd": {
+        "predoc": 8,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "j": {
+        "predoc": 7,
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
     },
     "rathnasiri": {
         "predoc": 2,
-        "ScrapedPDFs/Payment of Claims under Agrahara Insurance Scheme for Public Officers tested Positive for COVID 19-1666172992.1150625.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Claims under AIS for COVID 19 positive officers-1668946158.3850849.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
     },
-    "2003": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 4
+    "combin": {
+        "predoc": 6,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 2,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 2,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 3,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 3,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 4,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 2
     },
-    "w": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
-    },
-    "cid": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
-    },
-    "253": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
-    },
-    "xtu": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
-    },
-    "21": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
-    },
-    "xlv": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
-    },
-    "reform": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 2
-    },
-    "18th": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
-    },
-    "novemb": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
-    },
-    "would": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
-    },
-    "like": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
-    },
-    "result": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
-    },
-    "discuss": {
+    "2017": {
         "predoc": 2,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 3,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 4
     },
-    "held": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
+    "pa": {
+        "predoc": 6,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
     },
-    "sri": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 4
+    "cs": {
+        "predoc": 6,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
     },
-    "lanka": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 4
+    "polici": {
+        "predoc": 5,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
     },
-    "corpor": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 5
-    },
-    "ltd": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 4
-    },
-    "agre": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
-    },
-    "imburs": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
-    },
-    "respect": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 2
-    },
-    "hitherto": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
-    },
-    "done": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
-    },
-    "therefor": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
-    },
-    "pleas": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 3
-    },
-    "instruct": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
-    },
-    "forward": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
-    },
-    "branch": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
-    },
-    "issu": {
+    "\u0dc0": {
         "predoc": 2,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
     },
-    "concurr": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
+    "\u0dba\u0dc0": {
+        "predoc": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
     },
-    "c": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
+    "\u0dae": {
+        "predoc": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
     },
-    "mannapperuma": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
+    "\u0dc3": {
+        "predoc": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
     },
-    "copi": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
+    "\u0dc1": {
+        "predoc": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
     },
-    "financ": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
+    "\u0db0": {
+        "predoc": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
     },
-    "necessari": {
-        "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 2
+    "\u0db1": {
+        "predoc": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
     },
-    "chairman": {
+    "manag": {
+        "predoc": 7,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 5,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 5,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 4,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 2,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 4
+    },
+    "05": {
+        "predoc": 3,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 4,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 3,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 3
+    },
+    "comput": {
+        "predoc": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 4,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 3
+    },
+    "relev": {
+        "predoc": 4,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 2,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 2,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "effici": {
+        "predoc": 6,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 3,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 6,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 3,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 2,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 5
+    },
+    "bar": {
+        "predoc": 6,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 3,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 6,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 3,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 2,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 5
+    },
+    "examin": {
+        "predoc": 6,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 2,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 6,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 2,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 4
+    },
+    "in\u0dc3": {
         "predoc": 1,
-        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1666172934.8670797.txt": 1
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1
+    },
+    "grade": {
+        "predoc": 5,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 3,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 3,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 5,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 2,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 5
+    },
+    "iii": {
+        "predoc": 3,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 3,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 2
+    },
+    "assist": {
+        "predoc": 5,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 4,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 4,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 3,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 3
+    },
+    "follow": {
+        "predoc": 4,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "concess": {
+        "predoc": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "grant": {
+        "predoc": 4,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 2
+    },
+    "commiss": {
+        "predoc": 4,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 2,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "psc": {
+        "predoc": 4,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "5": {
+        "predoc": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 3,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
+    },
+    "2": {
+        "predoc": 3,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "25": {
+        "predoc": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1
+    },
+    "ii": {
+        "predoc": 3,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "2012": {
+        "predoc": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1
+    },
+    "date": {
+        "predoc": 7,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 3,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 5,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 3,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 2,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 3
+    },
+    "recruit": {
+        "predoc": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1
+    },
+    "01": {
+        "predoc": 7,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 2,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 5,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 4,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 2,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 2
+    },
+    "2004": {
+        "predoc": 3,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 2
+    },
+    "11": {
+        "predoc": 4,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 2,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "12": {
+        "predoc": 5,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 2,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "2013": {
+        "predoc": 4,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "minut": {
+        "predoc": 5,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 3,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 2,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "publish": {
+        "predoc": 4,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "pass": {
+        "predoc": 4,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 4
+    },
+    "prescrib": {
+        "predoc": 4,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 2,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 2
+    },
+    "unabl": {
+        "predoc": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1
+    },
+    "exempt": {
+        "predoc": 3,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
+    },
+    "said": {
+        "predoc": 7,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 2,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 3,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 3
+    },
+    "previou": {
+        "predoc": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
+    },
+    "accord": {
+        "predoc": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1
+    },
+    "1": {
+        "predoc": 3,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "section": {
+        "predoc": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1
+    },
+    "indic": {
+        "predoc": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1
+    },
+    "para": {
+        "predoc": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
+    },
+    "gazett": {
+        "predoc": 4,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "extra": {
+        "predoc": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
+    },
+    "ordinari": {
+        "predoc": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
+    },
+    "1372": {
+        "predoc": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
+    },
+    "23": {
+        "predoc": 3,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
+    },
+    "24": {
+        "predoc": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
+    },
+    "k": {
+        "predoc": 5,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "v": {
+        "predoc": 5,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "p": {
+        "predoc": 5,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "gamag": {
+        "predoc": 5,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "director": {
+        "predoc": 6,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 2,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "gener": {
+        "predoc": 6,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers - 2017-1668945981.4800775.txt": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 2,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 2
+    },
+    "2018": {
+        "predoc": 3,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 5,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "common": {
+        "predoc": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1
+    },
+    "law": {
+        "predoc": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1
+    },
+    "order": {
+        "predoc": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1
+    },
+    "28": {
+        "predoc": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1
+    },
+    "08": {
+        "predoc": 2,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1
+    },
+    "defer": {
+        "predoc": 2,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 2
+    },
+    "salari": {
+        "predoc": 3,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 4,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 3
+    },
+    "increment": {
+        "predoc": 3,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 4,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 3
+    },
+    "non": {
+        "predoc": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1
+    },
+    "complet": {
+        "predoc": 3,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 4,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 2,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 3
+    },
+    "effect": {
+        "predoc": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1
+    },
+    "within": {
+        "predoc": 3,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "year": {
+        "predoc": 5,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 4,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 2,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 2,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 2
+    },
+    "appoint": {
+        "predoc": 4,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 3,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "post": {
+        "predoc": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1
+    },
+    "new": {
+        "predoc": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1
+    },
+    "period": {
+        "predoc": 3,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 2,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 3
+    },
+    "promot": {
+        "predoc": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1
+    },
+    "end": {
+        "predoc": 2,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "app": {
+        "predoc": 3,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "4": {
+        "predoc": 4,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "62": {
+        "predoc": 3,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "take": {
+        "predoc": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1
+    },
+    "mention": {
+        "predoc": 3,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
+    },
+    "suspend": {
+        "predoc": 3,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "5th": {
+        "predoc": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1
+    },
+    "stop": {
+        "predoc": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1
+    },
+    "consecut": {
+        "predoc": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1
+    },
+    "sit": {
+        "predoc": 1,
+        "ScrapedPDFs/Deferment of Salary Increments on non-completion of Efficiency Bar Examination-1668946003.0828907.txt": 1
+    },
+    "2014": {
+        "predoc": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 3
+    },
+    "district": {
+        "predoc": 2,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
+    },
+    "division": {
+        "predoc": 2,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
+    },
+    "class": {
+        "predoc": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1
+    },
+    "e": {
+        "predoc": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1
+    },
+    "b": {
+        "predoc": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1
+    },
+    "home": {
+        "predoc": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1
+    },
+    "affair": {
+        "predoc": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1
+    },
+    "kind": {
+        "predoc": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1
+    },
+    "attent": {
+        "predoc": 3,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
+    },
+    "drawn": {
+        "predoc": 3,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
+    },
+    "kindli": {
+        "predoc": 3,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
+    },
+    "2007": {
+        "predoc": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 2
+    },
+    "first": {
+        "predoc": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1
+    },
+    "paragraph": {
+        "predoc": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1
+    },
+    "tabl": {
+        "predoc": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1
+    },
+    "revis": {
+        "predoc": 1,
+        "ScrapedPDFs/EBE of class III officers-1668946059.80287.txt": 1
     },
     "2005": {
         "predoc": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 2
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 2
     },
     "ix": {
         "predoc": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
     },
     "09": {
         "predoc": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
+    },
+    "extend": {
+        "predoc": 2,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1
     },
     "implement": {
         "predoc": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 2
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 2
     },
     "retir": {
         "predoc": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 2
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 2
+    },
+    "herebi": {
+        "predoc": 2,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 2,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
     },
     "viii": {
         "predoc": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
     },
     "29": {
         "predoc": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
+    },
+    "issu": {
+        "predoc": 2,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
     },
     "object": {
         "predoc": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 2
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 2
     },
     "provid": {
         "predoc": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
     },
     "special": {
         "predoc": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
     },
     "relief": {
         "predoc": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
     },
     "pension": {
         "predoc": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 2
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 2
     },
     "2016": {
         "predoc": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
     },
     "age": {
         "predoc": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
     },
     "70": {
         "predoc": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
+    },
+    "howev": {
+        "predoc": 2,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
     },
     "variou": {
         "predoc": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
     },
     "represent": {
         "predoc": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
     },
     "appropri": {
         "predoc": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
     },
     "decis": {
         "predoc": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
+    },
+    "discuss": {
+        "predoc": 2,
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
     },
     "parti": {
         "predoc": 1,
-        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1666172969.822767.txt": 1
+        "ScrapedPDFs/Extending the benefits under Agrahara Insurance Scheme-1668946141.9583623.txt": 1
+    },
+    "2022": {
+        "predoc": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 3
+    },
+    "\u0db4": {
+        "predoc": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1
+    },
+    "\u0daf": {
+        "predoc": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1
+    },
+    "26": {
+        "predoc": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1
+    },
+    "refer": {
+        "predoc": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1
+    },
+    "cours": {
+        "predoc": 3,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "relat": {
+        "predoc": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1
+    },
+    "extraordinari": {
+        "predoc": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "1840": {
+        "predoc": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "34": {
+        "predoc": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "requir": {
+        "predoc": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1
+    },
+    "five": {
+        "predoc": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 2,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 2
+    },
+    "decid": {
+        "predoc": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1
+    },
+    "concessionari": {
+        "predoc": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "2019": {
+        "predoc": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 3
+    },
+    "alreadi": {
+        "predoc": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "depriv": {
+        "predoc": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1
+    },
+    "due": {
+        "predoc": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "abl": {
+        "predoc": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "31": {
+        "predoc": 2,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 2
+    },
+    "alokabandara": {
+        "predoc": 1,
+        "ScrapedPDFs/Reference the course related to the exemption of the officers from the Efficiency Bar Examination-1668946095.5181093.txt": 1
+    },
+    "request": {
+        "predoc": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
+    },
+    "along": {
+        "predoc": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
+    },
+    "certif": {
+        "predoc": 1,
+        "ScrapedPDFs/Computer Test Relevant to the Efficiency bar Examination for Officers-1668945954.7938972.txt": 1
+    },
+    "2003": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 4
+    },
+    "w": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "cid": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "253": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "xtu": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "21": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "xlv": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "reform": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 2
+    },
+    "18th": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "novemb": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "would": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "like": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "result": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "held": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "sri": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 4
+    },
+    "lanka": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 4
+    },
+    "corpor": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 5
+    },
+    "ltd": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 4
+    },
+    "agre": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "imburs": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "respect": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 2
+    },
+    "hitherto": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "done": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "therefor": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "pleas": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 3
+    },
+    "instruct": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "forward": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "branch": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "concurr": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "03": {
+        "predoc": 2,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "c": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "mannapperuma": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "copi": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "financ": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "necessari": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 2
+    },
+    "chairman": {
+        "predoc": 1,
+        "ScrapedPDFs/Agrahara Insurance Scheme for Public Officers-1668946119.1958683.txt": 1
+    },
+    "disast": {
+        "predoc": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "17": {
+        "predoc": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "whose": {
+        "predoc": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "even": {
+        "predoc": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "though": {
+        "predoc": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
+    },
+    "train": {
+        "predoc": 1,
+        "ScrapedPDFs/Deferment of salary increments on not completing the efficiency bar-1668946042.8416.txt": 1
     }
 }
